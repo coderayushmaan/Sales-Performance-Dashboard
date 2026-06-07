@@ -42,10 +42,3 @@ Built a complete analytics solution including:
 | Sales_Dashboard_Ayushmaan_Pandey.xlsx | Excel workbook (4 sheets) |
 | Sales_Dashboard_Ayushmaan_Pandey.png | Dashboard visualization |
 
-## LinkedIn Caption (copy-paste ready)
-"Built a Sales Performance Dashboard analyzing ₹7.47Cr revenue across 
-4 regions, 5 categories & 1,000 orders using Python, SQL & Excel. 
-Identified top-performing region, product & salesperson — and flagged 
-discount strategies reducing margins. 
-Tools: Python · Pandas · SQL · Advanced Excel · Data Visualization
-#DataAnalytics #SQL #Python #Excel #DataAnalyst #OpenToWork"
