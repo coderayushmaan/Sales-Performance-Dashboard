@@ -1,0 +1,1001 @@
+Order_ID,Date,Month,Quarter,Region,Salesperson,Category,Product,Quantity,Unit_Price,Discount_Pct,Revenue,Cost,Profit,Profit_Margin_Pct
+ORD-0692,2023-01-01,January,Q1,East,Pooja Mehta,Furniture,Wardrobe,17,15000,5,242250.0,168783.22,73466.78,30.33
+ORD-0392,2023-01-01,January,Q1,North,Priya Singh,Clothing,Saree,7,3000,5,19950.0,11283.48,8666.52,43.44
+ORD-0453,2023-01-01,January,Q1,South,Amit Kumar,Furniture,Sofa,19,22000,5,397100.0,285972.12,111127.88,27.98
+ORD-0457,2023-01-01,January,Q1,East,Priya Singh,Electronics,Tablet,2,25000,5,47500.0,30288.09,17211.91,36.24
+ORD-0296,2023-01-02,January,Q1,West,Vikram Patel,Furniture,Chair,7,4000,10,25200.0,14228.07,10971.93,43.54
+ORD-0300,2023-01-02,January,Q1,South,Neha Gupta,Sports,Yoga Mat,1,500,0,500.0,321.3,178.7,35.74
+ORD-0033,2023-01-02,January,Q1,South,Rajesh Verma,Food & Beverages,Coffee,13,300,0,3900.0,2867.68,1032.32,26.47
+ORD-0157,2023-01-02,January,Q1,South,Kavita Nair,Clothing,Jacket,9,2500,20,18000.0,13442.5,4557.5,25.32
+ORD-0546,2023-01-03,January,Q1,South,Pooja Mehta,Food & Beverages,Juice,17,60,15,867.0,485.27,381.73,44.03
+ORD-0580,2023-01-03,January,Q1,North,Rahul Sharma,Sports,Football,19,800,10,13680.0,8602.21,5077.79,37.12
+ORD-0942,2023-01-03,January,Q1,South,Arun Joshi,Clothing,Jacket,4,2500,0,10000.0,7340.95,2659.05,26.59
+ORD-0421,2023-01-04,January,Q1,South,Amit Kumar,Food & Beverages,Tea,14,150,0,2100.0,1252.86,847.14,40.34
+ORD-0601,2023-01-04,January,Q1,West,Kavita Nair,Furniture,Bed,17,18000,0,306000.0,195221.8,110778.2,36.2
+ORD-0393,2023-01-05,January,Q1,West,Rahul Sharma,Sports,Football,11,800,20,7040.0,4041.8,2998.2,42.59
+ORD-0372,2023-01-05,January,Q1,North,Sunita Rao,Furniture,Bed,16,18000,0,288000.0,169639.4,118360.6,41.1
+ORD-0140,2023-01-05,January,Q1,West,Vikram Patel,Furniture,Chair,19,4000,20,60800.0,41779.32,19020.68,31.28
+ORD-0323,2023-01-05,January,Q1,North,Amit Kumar,Clothing,Jeans,7,1200,10,7560.0,4847.49,2712.51,35.88
+ORD-0821,2023-01-06,January,Q1,East,Arun Joshi,Sports,Cricket Bat,16,2500,5,38000.0,24796.24,13203.76,34.75
+ORD-0456,2023-01-06,January,Q1,East,Pooja Mehta,Clothing,T-Shirt,9,500,0,4500.0,2699.59,1800.41,40.01
+ORD-0594,2023-01-06,January,Q1,East,Arun Joshi,Electronics,Headphones,8,3500,20,22400.0,16638.72,5761.28,25.72
+ORD-0356,2023-01-06,January,Q1,West,Priya Singh,Food & Beverages,Snacks,4,80,0,320.0,190.21,129.79,40.56
+ORD-0667,2023-01-06,January,Q1,South,Vikram Patel,Food & Beverages,Snacks,1,80,10,72.0,51.34,20.66,28.69
+ORD-0410,2023-01-07,January,Q1,South,Priya Singh,Electronics,Tablet,5,25000,15,106250.0,58678.7,47571.3,44.77
+ORD-0342,2023-01-07,January,Q1,East,Rajesh Verma,Sports,Cycle,10,7000,5,66500.0,41732.73,24767.27,37.24
+ORD-0415,2023-01-07,January,Q1,North,Rahul Sharma,Electronics,Mobile,8,18000,0,144000.0,92786.82,51213.18,35.56
+ORD-0744,2023-01-08,January,Q1,North,Rajesh Verma,Clothing,Jeans,9,1200,5,10260.0,6099.68,4160.32,40.55
+ORD-0880,2023-01-08,January,Q1,West,Vikram Patel,Sports,Yoga Mat,14,500,15,5950.0,4310.89,1639.11,27.55
+ORD-0676,2023-01-08,January,Q1,North,Amit Kumar,Electronics,Mobile,16,18000,0,288000.0,178094.18,109905.82,38.16
+ORD-0324,2023-01-09,January,Q1,West,Pooja Mehta,Electronics,Smartwatch,1,8000,10,7200.0,4754.37,2445.63,33.97
+ORD-0213,2023-01-10,January,Q1,North,Priya Singh,Food & Beverages,Juice,9,60,0,540.0,387.18,152.82,28.3
+ORD-0020,2023-01-10,January,Q1,East,Pooja Mehta,Electronics,Smartwatch,4,8000,0,32000.0,23223.82,8776.18,27.43
+ORD-0674,2023-01-10,January,Q1,South,Sunita Rao,Sports,Yoga Mat,5,500,0,2500.0,1859.86,640.14,25.61
+ORD-0983,2023-01-11,January,Q1,North,Pooja Mehta,Sports,Football,2,800,20,1280.0,933.51,346.49,27.07
+ORD-0155,2023-01-11,January,Q1,South,Kavita Nair,Food & Beverages,Coffee,2,300,20,480.0,296.02,183.98,38.33
+ORD-0659,2023-01-12,January,Q1,South,Amit Kumar,Food & Beverages,Juice,5,60,15,255.0,152.22,102.78,40.31
+ORD-0604,2023-01-12,January,Q1,South,Rajesh Verma,Clothing,Kurta,8,800,0,6400.0,3683.69,2716.31,42.44
+ORD-0358,2023-01-13,January,Q1,South,Sunita Rao,Sports,Cycle,16,7000,0,112000.0,68217.68,43782.32,39.09
+ORD-0148,2023-01-13,January,Q1,South,Pooja Mehta,Furniture,Chair,20,4000,10,72000.0,44323.29,27676.71,38.44
+ORD-0341,2023-01-14,January,Q1,West,Priya Singh,Sports,Cycle,3,7000,0,21000.0,13877.72,7122.28,33.92
+ORD-0466,2023-01-14,January,Q1,South,Priya Singh,Sports,Yoga Mat,7,500,0,3500.0,2371.73,1128.27,32.24
+ORD-0982,2023-01-15,January,Q1,East,Amit Kumar,Clothing,Jeans,9,1200,20,8640.0,6140.51,2499.49,28.93
+ORD-0089,2023-01-15,January,Q1,West,Sunita Rao,Food & Beverages,Biscuits,16,40,20,512.0,314.88,197.12,38.5
+ORD-0133,2023-01-15,January,Q1,South,Vikram Patel,Electronics,Headphones,2,3500,0,7000.0,4964.6,2035.4,29.08
+ORD-0791,2023-01-15,January,Q1,North,Amit Kumar,Sports,Yoga Mat,16,500,15,6800.0,3808.62,2991.38,43.99
+ORD-0119,2023-01-15,January,Q1,West,Priya Singh,Furniture,Bed,20,18000,20,288000.0,172183.53,115816.47,40.21
+ORD-0778,2023-01-16,January,Q1,South,Vikram Patel,Furniture,Chair,11,4000,5,41800.0,28227.63,13572.37,32.47
+ORD-0739,2023-01-16,January,Q1,East,Amit Kumar,Electronics,Mobile,11,18000,5,188100.0,139615.2,48484.8,25.78
+ORD-0336,2023-01-16,January,Q1,West,Sunita Rao,Sports,Cycle,9,7000,20,50400.0,37725.27,12674.73,25.15
+ORD-0002,2023-01-16,January,Q1,West,Rahul Sharma,Sports,Cricket Bat,3,2500,0,7500.0,4473.99,3026.01,40.35
+ORD-0810,2023-01-16,January,Q1,North,Vikram Patel,Sports,Badminton,8,600,5,4560.0,3148.43,1411.57,30.96
+ORD-0797,2023-01-16,January,Q1,West,Pooja Mehta,Furniture,Sofa,3,22000,5,62700.0,35900.6,26799.4,42.74
+ORD-0696,2023-01-17,January,Q1,South,Amit Kumar,Electronics,Laptop,7,55000,0,385000.0,249123.51,135876.49,35.29
+ORD-0937,2023-01-17,January,Q1,South,Priya Singh,Food & Beverages,Coffee,17,300,10,4590.0,2578.91,2011.09,43.81
+ORD-0556,2023-01-17,January,Q1,South,Arun Joshi,Electronics,Tablet,12,25000,20,240000.0,153724.54,86275.46,35.95
+ORD-0837,2023-01-18,January,Q1,East,Neha Gupta,Clothing,Jacket,1,2500,10,2250.0,1278.87,971.13,43.16
+ORD-0784,2023-01-19,January,Q1,South,Neha Gupta,Clothing,T-Shirt,15,500,5,7125.0,4935.74,2189.26,30.73
+ORD-0855,2023-01-19,January,Q1,South,Priya Singh,Sports,Football,5,800,5,3800.0,2586.91,1213.09,31.92
+ORD-0775,2023-01-19,January,Q1,West,Pooja Mehta,Furniture,Sofa,5,22000,5,104500.0,60722.57,43777.43,41.89
+ORD-0280,2023-01-20,January,Q1,South,Arun Joshi,Electronics,Smartwatch,6,8000,5,45600.0,33126.07,12473.93,27.36
+ORD-0709,2023-01-20,January,Q1,South,Priya Singh,Furniture,Wardrobe,15,15000,0,225000.0,130774.82,94225.18,41.88
+ORD-0700,2023-01-21,January,Q1,East,Arun Joshi,Electronics,Smartwatch,3,8000,20,19200.0,11726.99,7473.01,38.92
+ORD-0561,2023-01-21,January,Q1,North,Rajesh Verma,Clothing,Kurta,14,800,0,11200.0,7406.78,3793.22,33.87
+ORD-0605,2023-01-21,January,Q1,South,Arun Joshi,Sports,Football,19,800,0,15200.0,8529.97,6670.03,43.88
+ORD-0909,2023-01-21,January,Q1,North,Pooja Mehta,Food & Beverages,Snacks,5,80,15,340.0,224.47,115.53,33.98
+ORD-0274,2023-01-22,January,Q1,South,Vikram Patel,Food & Beverages,Snacks,10,80,15,680.0,384.75,295.25,43.42
+ORD-0746,2023-01-22,January,Q1,West,Rajesh Verma,Food & Beverages,Tea,20,150,15,2550.0,1822.91,727.09,28.51
+ORD-0246,2023-01-22,January,Q1,East,Kavita Nair,Clothing,Jeans,1,1200,0,1200.0,670.91,529.09,44.09
+ORD-0640,2023-01-22,January,Q1,North,Arun Joshi,Food & Beverages,Biscuits,16,40,0,640.0,431.45,208.55,32.59
+ORD-0222,2023-01-23,January,Q1,East,Neha Gupta,Food & Beverages,Coffee,7,300,0,2100.0,1287.55,812.45,38.69
+ORD-0570,2023-01-23,January,Q1,West,Pooja Mehta,Furniture,Wardrobe,10,15000,15,127500.0,75034.07,52465.93,41.15
+ORD-0613,2023-01-23,January,Q1,West,Sunita Rao,Electronics,Headphones,17,3500,5,56525.0,33683.09,22841.91,40.41
+ORD-0220,2023-01-23,January,Q1,East,Amit Kumar,Electronics,Smartwatch,12,8000,10,86400.0,53370.1,33029.9,38.23
+ORD-0785,2023-01-23,January,Q1,North,Vikram Patel,Sports,Cricket Bat,20,2500,20,40000.0,22696.61,17303.39,43.26
+ORD-0204,2023-01-23,January,Q1,South,Pooja Mehta,Clothing,Jeans,14,1200,0,16800.0,11512.58,5287.42,31.47
+ORD-0007,2023-01-24,January,Q1,South,Priya Singh,Sports,Badminton,8,600,20,3840.0,2334.25,1505.75,39.21
+ORD-0098,2023-01-24,January,Q1,South,Vikram Patel,Furniture,Chair,2,4000,10,7200.0,4380.68,2819.32,39.16
+ORD-0963,2023-01-24,January,Q1,North,Kavita Nair,Furniture,Chair,5,4000,20,16000.0,9972.51,6027.49,37.67
+ORD-0418,2023-01-24,January,Q1,South,Arun Joshi,Electronics,Mobile,13,18000,0,234000.0,169743.19,64256.81,27.46
+ORD-0388,2023-01-24,January,Q1,East,Rahul Sharma,Sports,Yoga Mat,4,500,15,1700.0,1201.52,498.48,29.32
+ORD-0255,2023-01-26,January,Q1,East,Rahul Sharma,Clothing,Kurta,10,800,5,7600.0,5088.23,2511.77,33.05
+ORD-0436,2023-01-26,January,Q1,North,Pooja Mehta,Furniture,Chair,6,4000,10,21600.0,13751.24,7848.76,36.34
+ORD-0177,2023-01-26,January,Q1,South,Kavita Nair,Electronics,Mobile,3,18000,0,54000.0,34485.62,19514.38,36.14
+ORD-0563,2023-01-27,January,Q1,East,Kavita Nair,Electronics,Mobile,20,18000,20,288000.0,196524.88,91475.12,31.76
+ORD-0391,2023-01-27,January,Q1,East,Amit Kumar,Furniture,Chair,13,4000,15,44200.0,27010.7,17189.3,38.89
+ORD-0257,2023-01-27,January,Q1,North,Rajesh Verma,Food & Beverages,Snacks,19,80,10,1368.0,805.66,562.34,41.11
+ORD-0118,2023-01-27,January,Q1,West,Pooja Mehta,Furniture,Wardrobe,7,15000,0,105000.0,69283.61,35716.39,34.02
+ORD-0044,2023-01-27,January,Q1,West,Vikram Patel,Clothing,Jacket,3,2500,15,6375.0,4046.31,2328.69,36.53
+ORD-0035,2023-01-30,January,Q1,North,Sunita Rao,Clothing,T-Shirt,2,500,10,900.0,580.82,319.18,35.46
+ORD-0767,2023-01-30,January,Q1,South,Kavita Nair,Sports,Football,4,800,10,2880.0,2004.32,875.68,30.41
+ORD-0382,2023-01-31,January,Q1,South,Rajesh Verma,Sports,Cricket Bat,9,2500,20,18000.0,12261.23,5738.77,31.88
+ORD-0297,2023-01-31,January,Q1,North,Arun Joshi,Food & Beverages,Snacks,3,80,5,228.0,126.85,101.15,44.36
+ORD-0651,2023-01-31,January,Q1,North,Amit Kumar,Electronics,Headphones,7,3500,20,19600.0,11776.82,7823.18,39.91
+ORD-0727,2023-01-31,January,Q1,East,Amit Kumar,Sports,Cricket Bat,10,2500,0,25000.0,17695.94,7304.06,29.22
+ORD-0162,2023-02-01,February,Q1,West,Rahul Sharma,Sports,Badminton,16,600,20,7680.0,4840.88,2839.12,36.97
+ORD-0576,2023-02-02,February,Q1,North,Kavita Nair,Food & Beverages,Coffee,19,300,0,5700.0,3934.01,1765.99,30.98
+ORD-0852,2023-02-02,February,Q1,West,Rajesh Verma,Sports,Football,18,800,15,12240.0,7485.33,4754.67,38.85
+ORD-0860,2023-02-02,February,Q1,South,Sunita Rao,Clothing,T-Shirt,4,500,0,2000.0,1156.49,843.51,42.18
+ORD-0623,2023-02-02,February,Q1,West,Priya Singh,Clothing,Saree,9,3000,0,27000.0,16852.51,10147.49,37.58
+ORD-0950,2023-02-03,February,Q1,North,Amit Kumar,Food & Beverages,Biscuits,12,40,0,480.0,296.51,183.49,38.23
+ORD-0738,2023-02-04,February,Q1,South,Sunita Rao,Clothing,Kurta,18,800,10,12960.0,9586.78,3373.22,26.03
+ORD-0475,2023-02-04,February,Q1,East,Sunita Rao,Clothing,Kurta,3,800,5,2280.0,1507.7,772.3,33.87
+ORD-0219,2023-02-04,February,Q1,North,Sunita Rao,Furniture,Sofa,12,22000,0,264000.0,183899.29,80100.71,30.34
+ORD-0765,2023-02-04,February,Q1,East,Rajesh Verma,Furniture,Sofa,14,22000,20,246400.0,162647.21,83752.79,33.99
+ORD-0585,2023-02-05,February,Q1,East,Kavita Nair,Clothing,T-Shirt,7,500,0,3500.0,2265.1,1234.9,35.28
+ORD-0847,2023-02-05,February,Q1,West,Rajesh Verma,Food & Beverages,Juice,18,60,0,1080.0,594.71,485.29,44.93
+ORD-0678,2023-02-06,February,Q1,East,Rajesh Verma,Clothing,T-Shirt,18,500,5,8550.0,5013.04,3536.96,41.37
+ORD-0574,2023-02-06,February,Q1,East,Arun Joshi,Electronics,Mobile,19,18000,20,273600.0,162936.77,110663.23,40.45
+ORD-0698,2023-02-06,February,Q1,South,Kavita Nair,Electronics,Tablet,1,25000,0,25000.0,17028.75,7971.25,31.89
+ORD-0790,2023-02-06,February,Q1,South,Amit Kumar,Clothing,Jacket,10,2500,10,22500.0,16390.09,6109.91,27.16
+ORD-0844,2023-02-07,February,Q1,North,Rahul Sharma,Food & Beverages,Snacks,3,80,10,216.0,150.23,65.77,30.45
+ORD-0874,2023-02-07,February,Q1,West,Neha Gupta,Food & Beverages,Tea,16,150,10,2160.0,1397.26,762.74,35.31
+ORD-0039,2023-02-07,February,Q1,West,Sunita Rao,Clothing,Jacket,1,2500,5,2375.0,1601.3,773.7,32.58
+ORD-0631,2023-02-07,February,Q1,North,Arun Joshi,Food & Beverages,Biscuits,17,40,0,680.0,420.24,259.76,38.2
+ORD-0404,2023-02-07,February,Q1,South,Pooja Mehta,Food & Beverages,Snacks,1,80,10,72.0,40.57,31.43,43.65
+ORD-0338,2023-02-07,February,Q1,East,Neha Gupta,Food & Beverages,Coffee,3,300,0,900.0,522.76,377.24,41.92
+ORD-0105,2023-02-08,February,Q1,South,Arun Joshi,Clothing,Jeans,6,1200,0,7200.0,4548.27,2651.73,36.83
+ORD-0384,2023-02-08,February,Q1,West,Pooja Mehta,Furniture,Bed,3,18000,5,51300.0,33505.19,17794.81,34.69
+ORD-0046,2023-02-08,February,Q1,North,Priya Singh,Sports,Yoga Mat,5,500,10,2250.0,1253.71,996.29,44.28
+ORD-0936,2023-02-09,February,Q1,West,Priya Singh,Clothing,T-Shirt,1,500,20,400.0,258.74,141.26,35.31
+ORD-0345,2023-02-09,February,Q1,East,Pooja Mehta,Furniture,Bed,12,18000,0,216000.0,159590.4,56409.6,26.12
+ORD-0455,2023-02-09,February,Q1,South,Sunita Rao,Electronics,Headphones,8,3500,0,28000.0,20901.33,7098.67,25.35
+ORD-0193,2023-02-09,February,Q1,East,Vikram Patel,Electronics,Laptop,3,55000,10,148500.0,99319.17,49180.83,33.12
+ORD-0474,2023-02-10,February,Q1,North,Rajesh Verma,Clothing,Jeans,14,1200,0,16800.0,12590.82,4209.18,25.05
+ORD-0671,2023-02-10,February,Q1,South,Vikram Patel,Food & Beverages,Juice,14,60,15,714.0,426.91,287.09,40.21
+ORD-0163,2023-02-11,February,Q1,West,Priya Singh,Electronics,Headphones,11,3500,10,34650.0,20085.45,14564.55,42.03
+ORD-0895,2023-02-11,February,Q1,West,Priya Singh,Electronics,Mobile,13,18000,0,234000.0,142195.84,91804.16,39.23
+ORD-0036,2023-02-11,February,Q1,North,Arun Joshi,Sports,Football,6,800,0,4800.0,3211.23,1588.77,33.1
+ORD-0506,2023-02-11,February,Q1,East,Amit Kumar,Food & Beverages,Tea,16,150,0,2400.0,1622.9,777.1,32.38
+ORD-0078,2023-02-11,February,Q1,West,Vikram Patel,Food & Beverages,Snacks,16,80,0,1280.0,895.75,384.25,30.02
+ORD-0406,2023-02-12,February,Q1,West,Rajesh Verma,Sports,Yoga Mat,18,500,10,8100.0,5453.0,2647.0,32.68
+ORD-0723,2023-02-13,February,Q1,East,Amit Kumar,Clothing,Jeans,4,1200,15,4080.0,2288.5,1791.5,43.91
+ORD-0814,2023-02-13,February,Q1,West,Amit Kumar,Clothing,Saree,5,3000,15,12750.0,9067.65,3682.35,28.88
+ORD-0838,2023-02-14,February,Q1,North,Priya Singh,Sports,Football,20,800,0,16000.0,10003.07,5996.93,37.48
+ORD-0088,2023-02-14,February,Q1,East,Neha Gupta,Sports,Badminton,9,600,5,5130.0,3071.7,2058.3,40.12
+ORD-0236,2023-02-14,February,Q1,South,Pooja Mehta,Electronics,Headphones,11,3500,15,32725.0,20272.65,12452.35,38.05
+ORD-0685,2023-02-15,February,Q1,South,Sunita Rao,Food & Beverages,Biscuits,8,40,0,320.0,207.99,112.01,35.0
+ORD-0508,2023-02-15,February,Q1,South,Pooja Mehta,Clothing,Kurta,5,800,10,3600.0,2292.27,1307.73,36.33
+ORD-0720,2023-02-15,February,Q1,East,Kavita Nair,Furniture,Bed,4,18000,15,61200.0,38722.24,22477.76,36.73
+ORD-0863,2023-02-15,February,Q1,North,Amit Kumar,Electronics,Laptop,19,55000,0,1045000.0,661740.45,383259.55,36.68
+ORD-0986,2023-02-16,February,Q1,East,Pooja Mehta,Electronics,Smartwatch,8,8000,10,57600.0,33088.63,24511.37,42.55
+ORD-0523,2023-02-16,February,Q1,West,Amit Kumar,Electronics,Laptop,17,55000,0,935000.0,649556.4,285443.6,30.53
+ORD-0168,2023-02-17,February,Q1,North,Priya Singh,Food & Beverages,Coffee,14,300,0,4200.0,2935.45,1264.55,30.11
+ORD-0461,2023-02-17,February,Q1,North,Arun Joshi,Food & Beverages,Tea,11,150,10,1485.0,1109.38,375.62,25.29
+ORD-0928,2023-02-18,February,Q1,South,Amit Kumar,Sports,Cricket Bat,20,2500,20,40000.0,23337.09,16662.91,41.66
+ORD-0972,2023-02-18,February,Q1,North,Kavita Nair,Food & Beverages,Tea,19,150,0,2850.0,1723.32,1126.68,39.53
+ORD-0425,2023-02-18,February,Q1,North,Kavita Nair,Furniture,Bed,17,18000,0,306000.0,207297.6,98702.4,32.26
+ORD-0680,2023-02-18,February,Q1,South,Pooja Mehta,Clothing,T-Shirt,17,500,15,7225.0,5392.91,1832.09,25.36
+ORD-0259,2023-02-19,February,Q1,North,Amit Kumar,Sports,Cycle,13,7000,0,91000.0,64517.13,26482.87,29.1
+ORD-0005,2023-02-19,February,Q1,North,Rajesh Verma,Furniture,Chair,12,4000,20,38400.0,23761.58,14638.42,38.12
+ORD-0360,2023-02-19,February,Q1,East,Pooja Mehta,Sports,Yoga Mat,15,500,15,6375.0,4394.62,1980.38,31.06
+ORD-0964,2023-02-19,February,Q1,East,Rajesh Verma,Sports,Cricket Bat,14,2500,0,35000.0,26193.62,8806.38,25.16
+ORD-0954,2023-02-20,February,Q1,South,Rahul Sharma,Food & Beverages,Tea,2,150,20,240.0,135.27,104.73,43.64
+ORD-0277,2023-02-21,February,Q1,South,Rahul Sharma,Sports,Football,14,800,0,11200.0,7766.88,3433.12,30.65
+ORD-0478,2023-02-21,February,Q1,North,Kavita Nair,Sports,Cricket Bat,10,2500,20,20000.0,13142.53,6857.47,34.29
+ORD-0598,2023-02-22,February,Q1,North,Sunita Rao,Food & Beverages,Coffee,17,300,15,4335.0,3103.55,1231.45,28.41
+ORD-0538,2023-02-22,February,Q1,West,Rahul Sharma,Furniture,Chair,13,4000,5,49400.0,27524.02,21875.98,44.28
+ORD-0208,2023-02-22,February,Q1,East,Arun Joshi,Electronics,Headphones,17,3500,20,47600.0,27366.93,20233.07,42.51
+ORD-0227,2023-02-22,February,Q1,East,Sunita Rao,Clothing,Kurta,3,800,0,2400.0,1637.24,762.76,31.78
+ORD-0195,2023-02-22,February,Q1,North,Pooja Mehta,Sports,Football,11,800,15,7480.0,4240.16,3239.84,43.31
+ORD-0494,2023-02-22,February,Q1,West,Kavita Nair,Furniture,Wardrobe,1,15000,10,13500.0,10123.46,3376.54,25.01
+ORD-0703,2023-02-23,February,Q1,West,Rajesh Verma,Sports,Badminton,6,600,20,2880.0,1687.91,1192.09,41.39
+ORD-0460,2023-02-23,February,Q1,East,Vikram Patel,Furniture,Chair,3,4000,0,12000.0,7008.25,4991.75,41.6
+ORD-0339,2023-02-24,February,Q1,East,Sunita Rao,Clothing,Saree,3,3000,0,9000.0,6647.33,2352.67,26.14
+ORD-0018,2023-02-24,February,Q1,South,Arun Joshi,Electronics,Tablet,10,25000,20,200000.0,135557.98,64442.02,32.22
+ORD-0639,2023-02-24,February,Q1,East,Amit Kumar,Clothing,Kurta,4,800,0,3200.0,2192.52,1007.48,31.48
+ORD-0428,2023-02-24,February,Q1,North,Amit Kumar,Clothing,Jeans,6,1200,5,6840.0,4399.56,2440.44,35.68
+ORD-0346,2023-02-24,February,Q1,South,Pooja Mehta,Food & Beverages,Biscuits,5,40,0,200.0,110.27,89.73,44.87
+ORD-0617,2023-02-24,February,Q1,West,Sunita Rao,Clothing,Jacket,5,2500,5,11875.0,8078.74,3796.26,31.97
+ORD-0747,2023-02-25,February,Q1,North,Arun Joshi,Furniture,Bed,15,18000,5,256500.0,183500.62,72999.38,28.46
+ORD-0589,2023-02-25,February,Q1,West,Arun Joshi,Furniture,Sofa,6,22000,15,112200.0,75322.72,36877.28,32.87
+ORD-0054,2023-02-25,February,Q1,East,Rahul Sharma,Furniture,Table,20,8000,5,152000.0,94108.89,57891.11,38.09
+ORD-0873,2023-02-26,February,Q1,East,Neha Gupta,Food & Beverages,Tea,11,150,0,1650.0,939.86,710.14,43.04
+ORD-0877,2023-02-26,February,Q1,East,Amit Kumar,Sports,Cricket Bat,15,2500,5,35625.0,22573.59,13051.41,36.64
+ORD-0215,2023-02-26,February,Q1,West,Priya Singh,Clothing,Saree,16,3000,10,43200.0,28391.5,14808.5,34.28
+ORD-0158,2023-02-26,February,Q1,East,Amit Kumar,Clothing,Kurta,1,800,0,800.0,442.38,357.62,44.7
+ORD-0896,2023-02-27,February,Q1,South,Vikram Patel,Electronics,Laptop,5,55000,5,261250.0,151551.02,109698.98,41.99
+ORD-0531,2023-02-27,February,Q1,West,Pooja Mehta,Electronics,Mobile,14,18000,5,239400.0,133871.15,105528.85,44.08
+ORD-0868,2023-02-27,February,Q1,North,Neha Gupta,Clothing,Jacket,5,2500,15,10625.0,7636.79,2988.21,28.12
+ORD-0985,2023-02-27,February,Q1,South,Neha Gupta,Electronics,Headphones,19,3500,15,56525.0,36744.06,19780.94,35.0
+ORD-0818,2023-02-27,February,Q1,West,Sunita Rao,Electronics,Smartwatch,19,8000,5,144400.0,107194.99,37205.01,25.77
+ORD-0017,2023-02-27,February,Q1,East,Sunita Rao,Electronics,Smartwatch,10,8000,5,76000.0,44204.0,31796.0,41.84
+ORD-0980,2023-02-28,February,Q1,West,Neha Gupta,Sports,Football,5,800,0,4000.0,2222.16,1777.84,44.45
+ORD-0376,2023-02-28,February,Q1,North,Kavita Nair,Sports,Yoga Mat,9,500,20,3600.0,2371.04,1228.96,34.14
+ORD-0603,2023-02-28,February,Q1,West,Sunita Rao,Electronics,Mobile,16,18000,15,244800.0,158082.76,86717.24,35.42
+ORD-0520,2023-02-28,February,Q1,North,Vikram Patel,Electronics,Smartwatch,4,8000,5,30400.0,17927.77,12472.23,41.03
+ORD-0713,2023-03-03,March,Q1,West,Rajesh Verma,Furniture,Sofa,8,22000,15,149600.0,101811.15,47788.85,31.94
+ORD-0084,2023-03-03,March,Q1,East,Kavita Nair,Clothing,T-Shirt,19,500,20,7600.0,4242.43,3357.57,44.18
+ORD-0504,2023-03-03,March,Q1,South,Arun Joshi,Electronics,Headphones,13,3500,10,40950.0,24966.03,15983.97,39.03
+ORD-0859,2023-03-03,March,Q1,West,Sunita Rao,Food & Beverages,Snacks,19,80,10,1368.0,789.97,578.03,42.25
+ORD-0643,2023-03-03,March,Q1,South,Pooja Mehta,Furniture,Bed,17,18000,5,290700.0,178236.96,112463.04,38.69
+ORD-0095,2023-03-03,March,Q1,East,Neha Gupta,Furniture,Sofa,7,22000,0,154000.0,88382.29,65617.71,42.61
+ORD-0653,2023-03-04,March,Q1,North,Rajesh Verma,Furniture,Sofa,12,22000,20,211200.0,144865.71,66334.29,31.41
+ORD-0398,2023-03-05,March,Q1,North,Amit Kumar,Clothing,T-Shirt,19,500,15,8075.0,5061.46,3013.54,37.32
+ORD-0006,2023-03-05,March,Q1,West,Arun Joshi,Furniture,Chair,13,4000,0,52000.0,34341.22,17658.78,33.96
+ORD-0047,2023-03-07,March,Q1,South,Rajesh Verma,Furniture,Wardrobe,2,15000,0,30000.0,18687.91,11312.09,37.71
+ORD-0239,2023-03-08,March,Q1,West,Arun Joshi,Sports,Badminton,20,600,0,12000.0,6757.8,5242.2,43.68
+ORD-0511,2023-03-08,March,Q1,East,Vikram Patel,Clothing,Jeans,4,1200,5,4560.0,2967.04,1592.96,34.93
+ORD-0045,2023-03-08,March,Q1,North,Sunita Rao,Furniture,Chair,9,4000,0,36000.0,25136.86,10863.14,30.18
+ORD-0403,2023-03-09,March,Q1,East,Sunita Rao,Sports,Cricket Bat,13,2500,20,26000.0,18662.66,7337.34,28.22
+ORD-0647,2023-03-09,March,Q1,South,Kavita Nair,Furniture,Bed,19,18000,15,290700.0,173173.87,117526.13,40.43
+ORD-0340,2023-03-09,March,Q1,East,Priya Singh,Food & Beverages,Snacks,3,80,0,240.0,152.69,87.31,36.38
+ORD-0144,2023-03-09,March,Q1,South,Neha Gupta,Furniture,Bed,18,18000,0,324000.0,212599.23,111400.77,34.38
+ORD-0794,2023-03-09,March,Q1,West,Kavita Nair,Sports,Cricket Bat,3,2500,20,6000.0,4262.82,1737.18,28.95
+ORD-0299,2023-03-10,March,Q1,North,Arun Joshi,Food & Beverages,Juice,12,60,0,720.0,421.7,298.3,41.43
+ORD-1000,2023-03-10,March,Q1,West,Pooja Mehta,Food & Beverages,Snacks,9,80,0,720.0,495.0,225.0,31.25
+ORD-0813,2023-03-10,March,Q1,East,Amit Kumar,Food & Beverages,Tea,1,150,0,150.0,101.95,48.05,32.03
+ORD-0718,2023-03-11,March,Q1,West,Amit Kumar,Electronics,Headphones,16,3500,10,50400.0,29716.93,20683.07,41.04
+ORD-0221,2023-03-11,March,Q1,West,Amit Kumar,Clothing,Saree,3,3000,15,7650.0,5395.07,2254.93,29.48
+ORD-0886,2023-03-12,March,Q1,West,Pooja Mehta,Sports,Cricket Bat,13,2500,0,32500.0,23009.08,9490.92,29.2
+ORD-0433,2023-03-13,March,Q1,West,Priya Singh,Clothing,T-Shirt,4,500,0,2000.0,1124.67,875.33,43.77
+ORD-0334,2023-03-13,March,Q1,East,Rajesh Verma,Food & Beverages,Biscuits,3,40,10,108.0,75.5,32.5,30.09
+ORD-0543,2023-03-13,March,Q1,South,Pooja Mehta,Electronics,Laptop,14,55000,0,770000.0,462660.55,307339.45,39.91
+ORD-0726,2023-03-14,March,Q1,West,Kavita Nair,Furniture,Wardrobe,1,15000,5,14250.0,9499.06,4750.94,33.34
+ORD-0480,2023-03-15,March,Q1,East,Rajesh Verma,Electronics,Mobile,20,18000,10,324000.0,222316.67,101683.33,31.38
+ORD-0230,2023-03-15,March,Q1,South,Rahul Sharma,Food & Beverages,Snacks,20,80,15,1360.0,960.52,399.48,29.37
+ORD-0129,2023-03-15,March,Q1,West,Rahul Sharma,Food & Beverages,Coffee,14,300,20,3360.0,2288.01,1071.99,31.9
+ORD-0134,2023-03-16,March,Q1,East,Rajesh Verma,Furniture,Sofa,8,22000,10,158400.0,100173.8,58226.2,36.76
+ORD-0756,2023-03-16,March,Q1,South,Amit Kumar,Furniture,Wardrobe,6,15000,20,72000.0,49853.48,22146.52,30.76
+ORD-0062,2023-03-17,March,Q1,South,Neha Gupta,Clothing,Jacket,1,2500,0,2500.0,1497.42,1002.58,40.1
+ORD-0064,2023-03-17,March,Q1,West,Neha Gupta,Food & Beverages,Juice,1,60,20,48.0,34.66,13.34,27.79
+ORD-0438,2023-03-18,March,Q1,East,Pooja Mehta,Clothing,Jacket,2,2500,10,4500.0,3032.26,1467.74,32.62
+ORD-0101,2023-03-18,March,Q1,North,Amit Kumar,Food & Beverages,Coffee,19,300,0,5700.0,3232.11,2467.89,43.3
+ORD-0602,2023-03-18,March,Q1,East,Neha Gupta,Clothing,T-Shirt,6,500,0,3000.0,1867.33,1132.67,37.76
+ORD-0734,2023-03-19,March,Q1,East,Neha Gupta,Electronics,Smartwatch,11,8000,5,83600.0,56963.9,26636.1,31.86
+ORD-0826,2023-03-19,March,Q1,South,Kavita Nair,Electronics,Smartwatch,15,8000,0,120000.0,85388.18,34611.82,28.84
+ORD-0080,2023-03-20,March,Q1,North,Kavita Nair,Clothing,Jeans,8,1200,0,9600.0,6189.24,3410.76,35.53
+ORD-0586,2023-03-20,March,Q1,East,Kavita Nair,Furniture,Wardrobe,19,15000,10,256500.0,159773.51,96726.49,37.71
+ORD-0189,2023-03-20,March,Q1,South,Kavita Nair,Furniture,Table,3,8000,0,24000.0,17766.2,6233.8,25.97
+ORD-0788,2023-03-22,March,Q1,East,Amit Kumar,Food & Beverages,Coffee,9,300,0,2700.0,1493.24,1206.76,44.69
+ORD-0878,2023-03-22,March,Q1,East,Kavita Nair,Furniture,Table,20,8000,0,160000.0,106499.89,53500.11,33.44
+ORD-0278,2023-03-22,March,Q1,North,Arun Joshi,Electronics,Mobile,14,18000,15,214200.0,157866.78,56333.22,26.3
+ORD-0137,2023-03-22,March,Q1,East,Arun Joshi,Electronics,Headphones,3,3500,5,9975.0,7372.0,2603.0,26.1
+ORD-0237,2023-03-22,March,Q1,East,Vikram Patel,Electronics,Smartwatch,6,8000,20,38400.0,23896.26,14503.74,37.77
+ORD-0565,2023-03-23,March,Q1,North,Arun Joshi,Clothing,Kurta,14,800,10,10080.0,6626.66,3453.34,34.26
+ORD-0390,2023-03-23,March,Q1,South,Vikram Patel,Food & Beverages,Tea,9,150,0,1350.0,919.24,430.76,31.91
+ORD-0485,2023-03-23,March,Q1,North,Arun Joshi,Sports,Badminton,3,600,0,1800.0,1245.44,554.56,30.81
+ORD-0253,2023-03-23,March,Q1,East,Neha Gupta,Clothing,Jacket,16,2500,10,36000.0,23161.07,12838.93,35.66
+ORD-0529,2023-03-23,March,Q1,South,Rahul Sharma,Clothing,T-Shirt,4,500,5,1900.0,1391.27,508.73,26.78
+ORD-0681,2023-03-23,March,Q1,East,Sunita Rao,Food & Beverages,Juice,2,60,15,102.0,75.22,26.78,26.25
+ORD-0050,2023-03-23,March,Q1,South,Vikram Patel,Furniture,Bed,4,18000,5,68400.0,49551.24,18848.76,27.56
+ORD-0595,2023-03-23,March,Q1,South,Pooja Mehta,Sports,Football,6,800,10,4320.0,3195.69,1124.31,26.03
+ORD-0763,2023-03-24,March,Q1,West,Amit Kumar,Electronics,Laptop,10,55000,10,495000.0,337681.54,157318.46,31.78
+ORD-0019,2023-03-24,March,Q1,South,Sunita Rao,Sports,Football,18,800,20,11520.0,8461.29,3058.71,26.55
+ORD-0885,2023-03-24,March,Q1,West,Vikram Patel,Electronics,Laptop,15,55000,20,660000.0,438290.27,221709.73,33.59
+ORD-0555,2023-03-24,March,Q1,South,Vikram Patel,Electronics,Laptop,10,55000,15,467500.0,280552.45,186947.55,39.99
+ORD-0049,2023-03-25,March,Q1,South,Neha Gupta,Food & Beverages,Biscuits,6,40,5,228.0,126.53,101.47,44.5
+ORD-0916,2023-03-25,March,Q1,West,Vikram Patel,Food & Beverages,Juice,14,60,15,714.0,520.71,193.29,27.07
+ORD-0861,2023-03-26,March,Q1,East,Arun Joshi,Food & Beverages,Tea,15,150,0,2250.0,1654.05,595.95,26.49
+ORD-0371,2023-03-27,March,Q1,South,Arun Joshi,Clothing,Saree,16,3000,0,48000.0,27746.85,20253.15,42.19
+ORD-0355,2023-03-27,March,Q1,South,Sunita Rao,Electronics,Laptop,20,55000,0,1100000.0,728908.46,371091.54,33.74
+ORD-0032,2023-03-27,March,Q1,North,Neha Gupta,Sports,Cricket Bat,14,2500,5,33250.0,21488.53,11761.47,35.37
+ORD-0187,2023-03-28,March,Q1,South,Sunita Rao,Furniture,Sofa,3,22000,10,59400.0,40192.71,19207.29,32.34
+ORD-0270,2023-03-30,March,Q1,West,Sunita Rao,Food & Beverages,Biscuits,15,40,10,540.0,333.97,206.03,38.15
+ORD-0368,2023-03-30,March,Q1,West,Kavita Nair,Furniture,Sofa,10,22000,10,198000.0,132270.67,65729.33,33.2
+ORD-0445,2023-03-30,March,Q1,West,Sunita Rao,Electronics,Mobile,6,18000,0,108000.0,72198.42,35801.58,33.15
+ORD-0362,2023-03-31,March,Q1,South,Arun Joshi,Electronics,Mobile,18,18000,0,324000.0,199648.13,124351.87,38.38
+ORD-0159,2023-03-31,March,Q1,East,Rahul Sharma,Clothing,Kurta,9,800,0,7200.0,4142.53,3057.47,42.46
+ORD-0547,2023-04-01,April,Q2,West,Arun Joshi,Food & Beverages,Biscuits,19,40,0,760.0,529.04,230.96,30.39
+ORD-0865,2023-04-03,April,Q2,North,Kavita Nair,Clothing,Jeans,16,1200,10,17280.0,12788.23,4491.77,25.99
+ORD-0174,2023-04-03,April,Q2,East,Rahul Sharma,Furniture,Sofa,5,22000,10,99000.0,67465.42,31534.58,31.85
+ORD-0975,2023-04-03,April,Q2,West,Arun Joshi,Food & Beverages,Snacks,1,80,15,68.0,46.97,21.03,30.93
+ORD-0815,2023-04-03,April,Q2,West,Kavita Nair,Food & Beverages,Biscuits,15,40,10,540.0,342.81,197.19,36.52
+ORD-0113,2023-04-03,April,Q2,West,Vikram Patel,Food & Beverages,Biscuits,19,40,5,722.0,488.76,233.24,32.3
+ORD-0641,2023-04-04,April,Q2,East,Pooja Mehta,Food & Beverages,Biscuits,17,40,0,680.0,428.11,251.89,37.04
+ORD-0501,2023-04-04,April,Q2,East,Arun Joshi,Food & Beverages,Tea,11,150,15,1402.5,796.42,606.08,43.21
+ORD-0608,2023-04-04,April,Q2,South,Kavita Nair,Clothing,Saree,20,3000,15,51000.0,33260.21,17739.79,34.78
+ORD-0761,2023-04-05,April,Q2,South,Rahul Sharma,Furniture,Wardrobe,5,15000,0,75000.0,51049.15,23950.85,31.93
+ORD-0816,2023-04-06,April,Q2,East,Neha Gupta,Food & Beverages,Juice,14,60,10,756.0,416.92,339.08,44.85
+ORD-0281,2023-04-06,April,Q2,West,Pooja Mehta,Clothing,T-Shirt,10,500,0,5000.0,2759.27,2240.73,44.81
+ORD-0898,2023-04-07,April,Q2,North,Vikram Patel,Food & Beverages,Juice,3,60,0,180.0,130.38,49.62,27.57
+ORD-0126,2023-04-07,April,Q2,West,Sunita Rao,Sports,Yoga Mat,8,500,10,3600.0,2255.74,1344.26,37.34
+ORD-0740,2023-04-07,April,Q2,East,Amit Kumar,Furniture,Bed,4,18000,0,72000.0,42260.35,29739.65,41.31
+ORD-0510,2023-04-08,April,Q2,East,Arun Joshi,Furniture,Chair,1,4000,15,3400.0,1872.8,1527.2,44.92
+ORD-0091,2023-04-08,April,Q2,North,Arun Joshi,Furniture,Wardrobe,3,15000,0,45000.0,31230.67,13769.33,30.6
+ORD-0851,2023-04-08,April,Q2,North,Pooja Mehta,Furniture,Bed,5,18000,0,90000.0,52975.67,37024.33,41.14
+ORD-0283,2023-04-09,April,Q2,West,Vikram Patel,Food & Beverages,Tea,4,150,0,600.0,349.5,250.5,41.75
+ORD-0202,2023-04-09,April,Q2,East,Pooja Mehta,Clothing,Jeans,8,1200,0,9600.0,5577.49,4022.51,41.9
+ORD-0486,2023-04-09,April,Q2,North,Amit Kumar,Food & Beverages,Tea,7,150,20,840.0,471.68,368.32,43.85
+ORD-0787,2023-04-09,April,Q2,East,Neha Gupta,Furniture,Table,10,8000,0,80000.0,52516.41,27483.59,34.35
+ORD-0097,2023-04-10,April,Q2,East,Priya Singh,Sports,Cycle,10,7000,0,70000.0,43552.33,26447.67,37.78
+ORD-0244,2023-04-11,April,Q2,North,Vikram Patel,Sports,Badminton,18,600,0,10800.0,6210.37,4589.63,42.5
+ORD-0366,2023-04-11,April,Q2,East,Sunita Rao,Sports,Football,15,800,0,12000.0,7229.65,4770.35,39.75
+ORD-0364,2023-04-12,April,Q2,North,Kavita Nair,Food & Beverages,Juice,15,60,10,810.0,515.09,294.91,36.41
+ORD-0083,2023-04-12,April,Q2,West,Rajesh Verma,Furniture,Wardrobe,3,15000,10,40500.0,27868.98,12631.02,31.19
+ORD-0260,2023-04-12,April,Q2,East,Amit Kumar,Furniture,Wardrobe,20,15000,10,270000.0,170174.9,99825.1,36.97
+ORD-0207,2023-04-13,April,Q2,West,Amit Kumar,Food & Beverages,Biscuits,20,40,0,800.0,579.68,220.32,27.54
+ORD-0350,2023-04-13,April,Q2,North,Kavita Nair,Food & Beverages,Snacks,19,80,10,1368.0,801.63,566.37,41.4
+ORD-0939,2023-04-13,April,Q2,South,Kavita Nair,Electronics,Smartwatch,6,8000,15,40800.0,25308.51,15491.49,37.97
+ORD-0876,2023-04-14,April,Q2,East,Vikram Patel,Food & Beverages,Tea,11,150,0,1650.0,918.09,731.91,44.36
+ORD-0275,2023-04-14,April,Q2,West,Neha Gupta,Food & Beverages,Snacks,18,80,0,1440.0,1060.71,379.29,26.34
+ORD-0038,2023-04-15,April,Q2,East,Vikram Patel,Electronics,Headphones,11,3500,0,38500.0,23220.23,15279.77,39.69
+ORD-0380,2023-04-16,April,Q2,South,Neha Gupta,Food & Beverages,Tea,2,150,10,270.0,167.44,102.56,37.99
+ORD-0572,2023-04-16,April,Q2,West,Priya Singh,Clothing,Jeans,18,1200,20,17280.0,11932.68,5347.32,30.95
+ORD-0807,2023-04-16,April,Q2,West,Neha Gupta,Food & Beverages,Biscuits,11,40,0,440.0,292.18,147.82,33.6
+ORD-0313,2023-04-17,April,Q2,South,Pooja Mehta,Electronics,Mobile,11,18000,0,198000.0,146797.98,51202.02,25.86
+ORD-0917,2023-04-17,April,Q2,North,Amit Kumar,Clothing,Kurta,10,800,5,7600.0,5682.34,1917.66,25.23
+ORD-0801,2023-04-17,April,Q2,North,Sunita Rao,Food & Beverages,Juice,19,60,5,1083.0,765.53,317.47,29.31
+ORD-0973,2023-04-18,April,Q2,West,Rajesh Verma,Sports,Cycle,12,7000,20,67200.0,37990.33,29209.67,43.47
+ORD-0551,2023-04-18,April,Q2,South,Neha Gupta,Sports,Badminton,20,600,15,10200.0,6202.78,3997.22,39.19
+ORD-0331,2023-04-19,April,Q2,North,Neha Gupta,Electronics,Smartwatch,19,8000,5,144400.0,87249.23,57150.77,39.58
+ORD-0484,2023-04-19,April,Q2,South,Pooja Mehta,Sports,Cricket Bat,14,2500,15,29750.0,19245.04,10504.96,35.31
+ORD-0725,2023-04-19,April,Q2,South,Arun Joshi,Electronics,Tablet,7,25000,10,157500.0,103107.88,54392.12,34.53
+ORD-0040,2023-04-20,April,Q2,North,Arun Joshi,Sports,Cricket Bat,17,2500,0,42500.0,24500.88,17999.12,42.35
+ORD-0708,2023-04-20,April,Q2,East,Neha Gupta,Furniture,Chair,11,4000,0,44000.0,30989.4,13010.6,29.57
+ORD-0544,2023-04-21,April,Q2,North,Rajesh Verma,Clothing,Jeans,15,1200,20,14400.0,10170.49,4229.51,29.37
+ORD-0931,2023-04-22,April,Q2,South,Priya Singh,Food & Beverages,Snacks,5,80,10,360.0,213.92,146.08,40.58
+ORD-0759,2023-04-22,April,Q2,West,Neha Gupta,Electronics,Smartwatch,19,8000,15,129200.0,83352.4,45847.6,35.49
+ORD-0637,2023-04-22,April,Q2,East,Sunita Rao,Clothing,Saree,19,3000,0,57000.0,33433.74,23566.26,41.34
+ORD-0304,2023-04-22,April,Q2,South,Arun Joshi,Food & Beverages,Juice,2,60,0,120.0,78.09,41.91,34.92
+ORD-0910,2023-04-23,April,Q2,West,Kavita Nair,Furniture,Chair,15,4000,0,60000.0,34109.77,25890.23,43.15
+ORD-0025,2023-04-23,April,Q2,South,Kavita Nair,Sports,Cycle,1,7000,0,7000.0,4840.98,2159.02,30.84
+ORD-0596,2023-04-23,April,Q2,East,Rahul Sharma,Clothing,Saree,16,3000,0,48000.0,27003.47,20996.53,43.74
+ORD-0014,2023-04-23,April,Q2,West,Sunita Rao,Sports,Yoga Mat,5,500,10,2250.0,1459.58,790.42,35.13
+ORD-0161,2023-04-24,April,Q2,West,Arun Joshi,Sports,Cricket Bat,20,2500,0,50000.0,34772.43,15227.57,30.46
+ORD-0582,2023-04-24,April,Q2,South,Amit Kumar,Sports,Football,20,800,20,12800.0,7687.02,5112.98,39.95
+ORD-0881,2023-04-24,April,Q2,West,Kavita Nair,Clothing,Jacket,19,2500,0,47500.0,34805.67,12694.33,26.72
+ORD-0600,2023-04-25,April,Q2,East,Rajesh Verma,Electronics,Smartwatch,17,8000,5,129200.0,80178.88,49021.12,37.94
+ORD-0540,2023-04-25,April,Q2,East,Rahul Sharma,Food & Beverages,Snacks,15,80,0,1200.0,794.44,405.56,33.8
+ORD-0001,2023-04-25,April,Q2,East,Neha Gupta,Electronics,Laptop,5,55000,15,233750.0,133354.15,100395.85,42.95
+ORD-0211,2023-04-25,April,Q2,North,Sunita Rao,Clothing,Saree,1,3000,0,3000.0,2208.5,791.5,26.38
+ORD-0947,2023-04-26,April,Q2,East,Pooja Mehta,Food & Beverages,Biscuits,18,40,5,684.0,415.95,268.05,39.19
+ORD-0108,2023-04-26,April,Q2,North,Arun Joshi,Clothing,Saree,5,3000,0,15000.0,10729.89,4270.11,28.47
+ORD-0666,2023-04-27,April,Q2,West,Arun Joshi,Furniture,Sofa,3,22000,5,62700.0,38345.67,24354.33,38.84
+ORD-0944,2023-04-27,April,Q2,South,Arun Joshi,Food & Beverages,Juice,14,60,0,840.0,589.92,250.08,29.77
+ORD-0132,2023-04-27,April,Q2,South,Vikram Patel,Sports,Cricket Bat,3,2500,5,7125.0,5312.88,1812.12,25.43
+ORD-0319,2023-04-28,April,Q2,South,Sunita Rao,Furniture,Table,13,8000,10,93600.0,67080.55,26519.45,28.33
+ORD-0141,2023-04-28,April,Q2,West,Vikram Patel,Electronics,Smartwatch,20,8000,20,128000.0,79419.42,48580.58,37.95
+ORD-0011,2023-04-28,April,Q2,East,Rahul Sharma,Sports,Football,2,800,20,1280.0,784.76,495.24,38.69
+ORD-0394,2023-04-28,April,Q2,West,Priya Singh,Food & Beverages,Tea,13,150,0,1950.0,1357.5,592.5,30.38
+ORD-0424,2023-04-29,April,Q2,North,Rahul Sharma,Clothing,Jacket,17,2500,5,40375.0,27865.59,12509.41,30.98
+ORD-0335,2023-04-29,April,Q2,North,Rajesh Verma,Furniture,Chair,3,4000,0,12000.0,8052.4,3947.6,32.9
+ORD-0701,2023-04-29,April,Q2,North,Priya Singh,Clothing,Kurta,18,800,5,13680.0,8042.36,5637.64,41.21
+ORD-0106,2023-04-29,April,Q2,East,Rahul Sharma,Sports,Yoga Mat,10,500,15,4250.0,2577.81,1672.19,39.35
+ORD-0205,2023-04-30,April,Q2,East,Pooja Mehta,Clothing,Saree,18,3000,0,54000.0,33042.25,20957.75,38.81
+ORD-0770,2023-04-30,April,Q2,South,Kavita Nair,Food & Beverages,Juice,10,60,0,600.0,330.19,269.81,44.97
+ORD-0153,2023-05-01,May,Q2,West,Pooja Mehta,Furniture,Table,12,8000,0,96000.0,71633.81,24366.19,25.38
+ORD-0872,2023-05-01,May,Q2,North,Priya Singh,Food & Beverages,Biscuits,15,40,10,540.0,359.61,180.39,33.41
+ORD-0238,2023-05-02,May,Q2,South,Amit Kumar,Clothing,T-Shirt,16,500,0,8000.0,4977.43,3022.57,37.78
+ORD-0423,2023-05-02,May,Q2,South,Arun Joshi,Furniture,Chair,14,4000,5,53200.0,39487.01,13712.99,25.78
+ORD-0464,2023-05-02,May,Q2,East,Vikram Patel,Sports,Badminton,4,600,0,2400.0,1508.59,891.41,37.14
+ORD-0693,2023-05-03,May,Q2,East,Kavita Nair,Electronics,Smartwatch,11,8000,15,74800.0,42087.59,32712.41,43.73
+ORD-0627,2023-05-03,May,Q2,North,Sunita Rao,Sports,Football,1,800,0,800.0,453.89,346.11,43.26
+ORD-0638,2023-05-04,May,Q2,South,Neha Gupta,Clothing,Saree,9,3000,0,27000.0,16087.72,10912.28,40.42
+ORD-0735,2023-05-04,May,Q2,South,Rajesh Verma,Electronics,Headphones,19,3500,0,66500.0,42246.98,24253.02,36.47
+ORD-0402,2023-05-04,May,Q2,West,Priya Singh,Clothing,Saree,16,3000,15,40800.0,27286.47,13513.53,33.12
+ORD-0352,2023-05-04,May,Q2,South,Vikram Patel,Food & Beverages,Juice,9,60,15,459.0,266.6,192.4,41.92
+ORD-0420,2023-05-05,May,Q2,East,Kavita Nair,Furniture,Wardrobe,15,15000,0,225000.0,150376.09,74623.91,33.17
+ORD-0684,2023-05-05,May,Q2,North,Rajesh Verma,Furniture,Wardrobe,1,15000,0,15000.0,9993.23,5006.77,33.38
+ORD-0248,2023-05-06,May,Q2,East,Pooja Mehta,Sports,Badminton,13,600,0,7800.0,4997.53,2802.47,35.93
+ORD-0010,2023-05-06,May,Q2,South,Arun Joshi,Electronics,Smartwatch,6,8000,5,45600.0,28540.63,17059.37,37.41
+ORD-0301,2023-05-07,May,Q2,West,Neha Gupta,Sports,Yoga Mat,15,500,0,7500.0,4357.68,3142.32,41.9
+ORD-0024,2023-05-07,May,Q2,West,Priya Singh,Furniture,Bed,8,18000,0,144000.0,88936.86,55063.14,38.24
+ORD-0271,2023-05-07,May,Q2,West,Neha Gupta,Furniture,Sofa,9,22000,10,178200.0,108648.51,69551.49,39.03
+ORD-0013,2023-05-07,May,Q2,East,Amit Kumar,Food & Beverages,Tea,18,150,10,2430.0,1464.19,965.81,39.75
+ORD-0965,2023-05-07,May,Q2,North,Neha Gupta,Food & Beverages,Snacks,8,80,15,544.0,333.16,210.84,38.76
+ORD-0731,2023-05-07,May,Q2,North,Rahul Sharma,Sports,Yoga Mat,17,500,0,8500.0,5242.07,3257.93,38.33
+ORD-0383,2023-05-07,May,Q2,South,Sunita Rao,Clothing,Jeans,13,1200,5,14820.0,8572.4,6247.6,42.16
+ORD-0037,2023-05-07,May,Q2,North,Kavita Nair,Clothing,Saree,19,3000,10,51300.0,28622.75,22677.25,44.21
+ORD-0679,2023-05-08,May,Q2,North,Priya Singh,Furniture,Bed,13,18000,20,187200.0,139462.96,47737.04,25.5
+ORD-0016,2023-05-09,May,Q2,West,Arun Joshi,Food & Beverages,Biscuits,18,40,20,576.0,425.37,150.63,26.15
+ORD-0753,2023-05-09,May,Q2,West,Priya Singh,Sports,Football,11,800,15,7480.0,5084.27,2395.73,32.03
+ORD-0839,2023-05-10,May,Q2,North,Amit Kumar,Sports,Football,10,800,5,7600.0,5183.93,2416.07,31.79
+ORD-0991,2023-05-10,May,Q2,North,Neha Gupta,Sports,Cricket Bat,18,2500,5,42750.0,26156.75,16593.25,38.81
+ORD-0116,2023-05-10,May,Q2,North,Sunita Rao,Electronics,Headphones,11,3500,0,38500.0,28645.42,9854.58,25.6
+ORD-0414,2023-05-11,May,Q2,East,Amit Kumar,Sports,Football,4,800,10,2880.0,1972.29,907.71,31.52
+ORD-0988,2023-05-11,May,Q2,West,Rajesh Verma,Clothing,Jacket,19,2500,0,47500.0,30783.41,16716.59,35.19
+ORD-0710,2023-05-12,May,Q2,South,Neha Gupta,Furniture,Sofa,10,22000,0,220000.0,146101.44,73898.56,33.59
+ORD-0634,2023-05-13,May,Q2,West,Priya Singh,Sports,Cricket Bat,3,2500,5,7125.0,4821.72,2303.28,32.33
+ORD-0904,2023-05-14,May,Q2,South,Pooja Mehta,Electronics,Tablet,12,25000,0,300000.0,177309.32,122690.68,40.9
+ORD-0378,2023-05-15,May,Q2,North,Pooja Mehta,Clothing,Jacket,12,2500,20,24000.0,17120.3,6879.7,28.67
+ORD-0469,2023-05-15,May,Q2,West,Pooja Mehta,Electronics,Tablet,8,25000,20,160000.0,96593.98,63406.02,39.63
+ORD-0971,2023-05-16,May,Q2,South,Vikram Patel,Electronics,Smartwatch,2,8000,0,16000.0,11987.93,4012.07,25.08
+ORD-0979,2023-05-17,May,Q2,South,Rajesh Verma,Furniture,Chair,10,4000,15,34000.0,19791.97,14208.03,41.79
+ORD-0675,2023-05-18,May,Q2,North,Vikram Patel,Electronics,Mobile,5,18000,15,76500.0,48782.77,27717.23,36.23
+ORD-0491,2023-05-18,May,Q2,South,Neha Gupta,Clothing,Jeans,14,1200,10,15120.0,8376.64,6743.36,44.6
+ORD-0645,2023-05-18,May,Q2,East,Neha Gupta,Furniture,Table,16,8000,10,115200.0,71264.94,43935.06,38.14
+ORD-0672,2023-05-18,May,Q2,East,Arun Joshi,Sports,Badminton,14,600,0,8400.0,6053.85,2346.15,27.93
+ORD-0442,2023-05-19,May,Q2,East,Rajesh Verma,Sports,Cycle,6,7000,0,42000.0,25778.57,16221.43,38.62
+ORD-0069,2023-05-20,May,Q2,East,Neha Gupta,Food & Beverages,Coffee,11,300,0,3300.0,2404.4,895.6,27.14
+ORD-0178,2023-05-20,May,Q2,West,Rajesh Verma,Food & Beverages,Juice,7,60,20,336.0,219.23,116.77,34.75
+ORD-0994,2023-05-21,May,Q2,West,Rahul Sharma,Food & Beverages,Snacks,3,80,20,192.0,135.53,56.47,29.41
+ORD-0123,2023-05-22,May,Q2,South,Priya Singh,Sports,Cycle,14,7000,0,98000.0,72211.27,25788.73,26.32
+ORD-0399,2023-05-22,May,Q2,South,Neha Gupta,Food & Beverages,Snacks,3,80,0,240.0,158.56,81.44,33.93
+ORD-0004,2023-05-23,May,Q2,West,Sunita Rao,Electronics,Mobile,5,18000,0,90000.0,66729.84,23270.16,25.86
+ORD-0008,2023-05-23,May,Q2,North,Rajesh Verma,Electronics,Mobile,15,18000,15,229500.0,164510.67,64989.33,28.32
+ORD-0172,2023-05-23,May,Q2,East,Priya Singh,Furniture,Wardrobe,19,15000,0,285000.0,202761.62,82238.38,28.86
+ORD-0825,2023-05-24,May,Q2,South,Kavita Nair,Furniture,Sofa,9,22000,20,158400.0,95260.36,63139.64,39.86
+ORD-0569,2023-05-25,May,Q2,East,Arun Joshi,Electronics,Headphones,1,3500,10,3150.0,2250.43,899.57,28.56
+ORD-0043,2023-05-25,May,Q2,South,Vikram Patel,Electronics,Smartwatch,20,8000,0,160000.0,110963.59,49036.41,30.65
+ORD-0282,2023-05-26,May,Q2,North,Sunita Rao,Sports,Cycle,15,7000,15,89250.0,58785.41,30464.59,34.13
+ORD-0041,2023-05-26,May,Q2,South,Sunita Rao,Furniture,Chair,6,4000,5,22800.0,16341.88,6458.12,28.33
+ORD-0387,2023-05-26,May,Q2,East,Sunita Rao,Clothing,Saree,11,3000,10,29700.0,19767.93,9932.07,33.44
+ORD-0615,2023-05-26,May,Q2,South,Priya Singh,Furniture,Bed,20,18000,10,324000.0,204680.31,119319.69,36.83
+ORD-0707,2023-05-26,May,Q2,North,Rahul Sharma,Food & Beverages,Juice,20,60,0,1200.0,784.23,415.77,34.65
+ORD-0655,2023-05-27,May,Q2,West,Kavita Nair,Food & Beverages,Coffee,15,300,15,3825.0,2835.54,989.46,25.87
+ORD-0235,2023-05-27,May,Q2,South,Kavita Nair,Furniture,Bed,16,18000,0,288000.0,165463.92,122536.08,42.55
+ORD-0212,2023-05-27,May,Q2,South,Rahul Sharma,Furniture,Table,16,8000,15,108800.0,77924.96,30875.04,28.38
+ORD-0325,2023-05-27,May,Q2,East,Arun Joshi,Electronics,Laptop,1,55000,10,49500.0,35275.26,14224.74,28.74
+ORD-0757,2023-05-28,May,Q2,East,Pooja Mehta,Food & Beverages,Snacks,6,80,0,480.0,350.26,129.74,27.03
+ORD-0115,2023-05-28,May,Q2,West,Pooja Mehta,Clothing,Jacket,13,2500,20,26000.0,18254.6,7745.4,29.79
+ORD-0214,2023-05-28,May,Q2,West,Priya Singh,Sports,Cycle,8,7000,0,56000.0,32164.7,23835.3,42.56
+ORD-0170,2023-05-28,May,Q2,West,Rahul Sharma,Food & Beverages,Snacks,20,80,0,1600.0,992.53,607.47,37.97
+ORD-0593,2023-05-29,May,Q2,South,Kavita Nair,Furniture,Bed,5,18000,5,85500.0,55594.21,29905.79,34.98
+ORD-0216,2023-05-30,May,Q2,South,Amit Kumar,Sports,Cycle,14,7000,0,98000.0,65950.27,32049.73,32.7
+ORD-0729,2023-05-30,May,Q2,North,Rahul Sharma,Furniture,Sofa,13,22000,0,286000.0,213344.15,72655.85,25.4
+ORD-0669,2023-05-30,May,Q2,North,Rajesh Verma,Food & Beverages,Snacks,20,80,0,1600.0,1134.97,465.03,29.06
+ORD-0145,2023-06-01,June,Q2,East,Pooja Mehta,Furniture,Table,11,8000,20,70400.0,40341.59,30058.41,42.7
+ORD-0524,2023-06-01,June,Q2,South,Pooja Mehta,Electronics,Tablet,9,25000,5,213750.0,119703.43,94046.57,44.0
+ORD-0124,2023-06-02,June,Q2,North,Vikram Patel,Sports,Badminton,19,600,10,10260.0,7692.75,2567.25,25.02
+ORD-0993,2023-06-02,June,Q2,North,Neha Gupta,Furniture,Sofa,7,22000,20,123200.0,89695.68,33504.32,27.2
+ORD-0579,2023-06-02,June,Q2,East,Amit Kumar,Food & Beverages,Biscuits,12,40,0,480.0,317.14,162.86,33.93
+ORD-0512,2023-06-02,June,Q2,North,Rahul Sharma,Furniture,Table,10,8000,5,76000.0,52863.05,23136.95,30.44
+ORD-0309,2023-06-03,June,Q2,South,Neha Gupta,Sports,Yoga Mat,5,500,20,2000.0,1285.21,714.79,35.74
+ORD-0395,2023-06-03,June,Q2,East,Sunita Rao,Electronics,Laptop,5,55000,5,261250.0,184100.81,77149.19,29.53
+ORD-0042,2023-06-03,June,Q2,North,Arun Joshi,Furniture,Wardrobe,4,15000,0,60000.0,36173.59,23826.41,39.71
+ORD-0472,2023-06-03,June,Q2,South,Pooja Mehta,Food & Beverages,Biscuits,3,40,5,114.0,83.28,30.72,26.95
+ORD-0650,2023-06-03,June,Q2,East,Pooja Mehta,Sports,Cycle,9,7000,10,56700.0,40920.41,15779.59,27.83
+ORD-0306,2023-06-03,June,Q2,South,Rajesh Verma,Clothing,Kurta,9,800,0,7200.0,4761.67,2438.33,33.87
+ORD-0328,2023-06-03,June,Q2,South,Neha Gupta,Food & Beverages,Biscuits,3,40,15,102.0,76.33,25.67,25.17
+ORD-0850,2023-06-03,June,Q2,West,Neha Gupta,Sports,Cricket Bat,13,2500,0,32500.0,21974.01,10525.99,32.39
+ORD-0287,2023-06-04,June,Q2,East,Sunita Rao,Clothing,Saree,19,3000,15,48450.0,32198.68,16251.32,33.54
+ORD-0938,2023-06-04,June,Q2,North,Priya Singh,Electronics,Tablet,1,25000,20,20000.0,11386.01,8613.99,43.07
+ORD-0482,2023-06-05,June,Q2,North,Sunita Rao,Furniture,Sofa,10,22000,0,220000.0,158085.25,61914.75,28.14
+ORD-0900,2023-06-05,June,Q2,West,Pooja Mehta,Furniture,Bed,19,18000,0,342000.0,249542.48,92457.52,27.03
+ORD-0369,2023-06-06,June,Q2,North,Neha Gupta,Clothing,Jacket,4,2500,0,10000.0,6246.61,3753.39,37.53
+ORD-0714,2023-06-06,June,Q2,West,Rahul Sharma,Sports,Cricket Bat,17,2500,0,42500.0,26089.19,16410.81,38.61
+ORD-0737,2023-06-08,June,Q2,South,Amit Kumar,Sports,Cycle,17,7000,0,119000.0,75685.53,43314.47,36.4
+ORD-0359,2023-06-09,June,Q2,South,Sunita Rao,Electronics,Laptop,11,55000,5,574750.0,406264.34,168485.66,29.31
+ORD-0082,2023-06-09,June,Q2,North,Amit Kumar,Sports,Cycle,4,7000,10,25200.0,13989.42,11210.58,44.49
+ORD-0587,2023-06-10,June,Q2,South,Rahul Sharma,Furniture,Bed,8,18000,20,115200.0,68463.95,46736.05,40.57
+ORD-0835,2023-06-10,June,Q2,East,Amit Kumar,Clothing,Kurta,18,800,0,14400.0,9857.67,4542.33,31.54
+ORD-0317,2023-06-10,June,Q2,South,Sunita Rao,Food & Beverages,Snacks,14,80,0,1120.0,742.01,377.99,33.75
+ORD-0657,2023-06-10,June,Q2,East,Neha Gupta,Electronics,Mobile,11,18000,15,168300.0,102372.05,65927.95,39.17
+ORD-0233,2023-06-10,June,Q2,East,Rajesh Verma,Sports,Football,9,800,0,7200.0,5343.15,1856.85,25.79
+ORD-0012,2023-06-11,June,Q2,South,Kavita Nair,Furniture,Chair,7,4000,15,23800.0,15466.34,8333.66,35.02
+ORD-0332,2023-06-11,June,Q2,North,Amit Kumar,Electronics,Tablet,1,25000,0,25000.0,16685.18,8314.82,33.26
+ORD-0687,2023-06-12,June,Q2,West,Neha Gupta,Electronics,Mobile,18,18000,20,259200.0,175978.45,83221.55,32.11
+ORD-0454,2023-06-12,June,Q2,South,Kavita Nair,Sports,Cricket Bat,20,2500,0,50000.0,33896.47,16103.53,32.21
+ORD-0272,2023-06-12,June,Q2,South,Pooja Mehta,Furniture,Sofa,16,22000,0,352000.0,233058.33,118941.67,33.79
+ORD-0926,2023-06-13,June,Q2,North,Amit Kumar,Clothing,Kurta,15,800,15,10200.0,5886.41,4313.59,42.29
+ORD-0535,2023-06-14,June,Q2,North,Pooja Mehta,Food & Beverages,Tea,8,150,0,1200.0,892.83,307.17,25.6
+ORD-0279,2023-06-14,June,Q2,South,Vikram Patel,Food & Beverages,Juice,10,60,15,510.0,286.53,223.47,43.82
+ORD-0315,2023-06-14,June,Q2,South,Arun Joshi,Clothing,Saree,10,3000,5,28500.0,18332.63,10167.37,35.67
+ORD-0449,2023-06-15,June,Q2,East,Amit Kumar,Clothing,Jeans,2,1200,0,2400.0,1390.9,1009.1,42.05
+ORD-0286,2023-06-15,June,Q2,South,Pooja Mehta,Electronics,Mobile,8,18000,0,144000.0,86710.62,57289.38,39.78
+ORD-0752,2023-06-15,June,Q2,West,Rajesh Verma,Sports,Football,15,800,0,12000.0,7029.31,4970.69,41.42
+ORD-0243,2023-06-15,June,Q2,South,Amit Kumar,Clothing,Jacket,8,2500,0,20000.0,14789.93,5210.07,26.05
+ORD-0176,2023-06-16,June,Q2,East,Vikram Patel,Furniture,Table,19,8000,10,136800.0,77564.42,59235.58,43.3
+ORD-0385,2023-06-17,June,Q2,West,Pooja Mehta,Furniture,Sofa,19,22000,0,418000.0,302540.69,115459.31,27.62
+ORD-0946,2023-06-17,June,Q2,North,Priya Singh,Furniture,Wardrobe,16,15000,0,240000.0,150469.49,89530.51,37.3
+ORD-0293,2023-06-17,June,Q2,South,Amit Kumar,Sports,Football,17,800,5,12920.0,7406.36,5513.64,42.68
+ORD-0077,2023-06-17,June,Q2,East,Rajesh Verma,Clothing,T-Shirt,7,500,5,3325.0,2046.1,1278.9,38.46
+ORD-0181,2023-06-17,June,Q2,East,Vikram Patel,Clothing,Jeans,4,1200,0,4800.0,3117.49,1682.51,35.05
+ORD-0026,2023-06-19,June,Q2,North,Rahul Sharma,Electronics,Mobile,3,18000,10,48600.0,29043.41,19556.59,40.24
+ORD-0502,2023-06-19,June,Q2,East,Rajesh Verma,Furniture,Table,12,8000,0,96000.0,64042.96,31957.04,33.29
+ORD-0522,2023-06-19,June,Q2,South,Pooja Mehta,Sports,Yoga Mat,8,500,0,4000.0,2210.2,1789.8,44.75
+ORD-0264,2023-06-19,June,Q2,North,Sunita Rao,Furniture,Bed,4,18000,5,68400.0,45605.05,22794.95,33.33
+ORD-0053,2023-06-19,June,Q2,West,Arun Joshi,Furniture,Sofa,1,22000,0,22000.0,15958.97,6041.03,27.46
+ORD-0562,2023-06-19,June,Q2,East,Rahul Sharma,Clothing,Jeans,15,1200,15,15300.0,11283.73,4016.27,26.25
+ORD-0793,2023-06-20,June,Q2,East,Vikram Patel,Sports,Yoga Mat,7,500,15,2975.0,2087.5,887.5,29.83
+ORD-0261,2023-06-20,June,Q2,North,Amit Kumar,Electronics,Laptop,16,55000,10,792000.0,507986.99,284013.01,35.86
+ORD-0870,2023-06-21,June,Q2,West,Vikram Patel,Furniture,Table,20,8000,20,128000.0,93186.04,34813.96,27.2
+ORD-0966,2023-06-22,June,Q2,East,Priya Singh,Electronics,Laptop,6,55000,0,330000.0,217035.51,112964.49,34.23
+ORD-0969,2023-06-22,June,Q2,North,Neha Gupta,Electronics,Headphones,16,3500,10,50400.0,35899.49,14500.51,28.77
+ORD-0284,2023-06-22,June,Q2,South,Rahul Sharma,Food & Beverages,Snacks,10,80,10,720.0,493.11,226.89,31.51
+ORD-0853,2023-06-23,June,Q2,North,Rahul Sharma,Sports,Yoga Mat,2,500,0,1000.0,707.56,292.44,29.24
+ORD-0166,2023-06-23,June,Q2,South,Rajesh Verma,Food & Beverages,Juice,15,60,5,855.0,541.38,313.62,36.68
+ORD-0633,2023-06-23,June,Q2,West,Neha Gupta,Food & Beverages,Biscuits,15,40,15,510.0,327.49,182.51,35.79
+ORD-0130,2023-06-23,June,Q2,West,Vikram Patel,Clothing,T-Shirt,20,500,15,8500.0,5350.72,3149.28,37.05
+ORD-0090,2023-06-24,June,Q2,East,Vikram Patel,Food & Beverages,Tea,9,150,10,1215.0,838.64,376.36,30.98
+ORD-0724,2023-06-25,June,Q2,East,Rahul Sharma,Sports,Football,4,800,0,3200.0,2048.04,1151.96,36.0
+ORD-0957,2023-06-25,June,Q2,East,Arun Joshi,Food & Beverages,Juice,18,60,10,972.0,538.04,433.96,44.65
+ORD-0505,2023-06-25,June,Q2,South,Neha Gupta,Electronics,Mobile,14,18000,10,226800.0,165239.45,61560.55,27.14
+ORD-0893,2023-06-26,June,Q2,North,Sunita Rao,Furniture,Chair,15,4000,5,57000.0,37066.53,19933.47,34.97
+ORD-0581,2023-06-26,June,Q2,East,Neha Gupta,Sports,Cricket Bat,7,2500,5,16625.0,12154.96,4470.04,26.89
+ORD-0721,2023-06-26,June,Q2,South,Sunita Rao,Furniture,Sofa,20,22000,15,374000.0,207510.67,166489.33,44.52
+ORD-0241,2023-06-26,June,Q2,West,Arun Joshi,Electronics,Headphones,5,3500,20,14000.0,9884.74,4115.26,29.39
+ORD-0798,2023-06-28,June,Q2,South,Vikram Patel,Food & Beverages,Juice,20,60,10,1080.0,621.52,458.48,42.45
+ORD-0690,2023-06-28,June,Q2,South,Arun Joshi,Clothing,Kurta,11,800,15,7480.0,4814.72,2665.28,35.63
+ORD-0493,2023-06-28,June,Q2,West,Rajesh Verma,Furniture,Sofa,15,22000,0,330000.0,195901.8,134098.2,40.64
+ORD-0940,2023-06-28,June,Q2,East,Kavita Nair,Electronics,Mobile,12,18000,0,216000.0,155741.97,60258.03,27.9
+ORD-0051,2023-06-29,June,Q2,South,Pooja Mehta,Food & Beverages,Tea,10,150,20,1200.0,850.88,349.12,29.09
+ORD-0188,2023-06-29,June,Q2,South,Sunita Rao,Sports,Cycle,5,7000,0,35000.0,19969.63,15030.37,42.94
+ORD-0892,2023-06-30,June,Q2,South,Sunita Rao,Sports,Football,9,800,10,6480.0,4445.57,2034.43,31.4
+ORD-0822,2023-06-30,June,Q2,East,Rajesh Verma,Food & Beverages,Biscuits,10,40,0,400.0,233.4,166.6,41.65
+ORD-0635,2023-06-30,June,Q2,East,Rajesh Verma,Clothing,Jeans,17,1200,10,18360.0,10133.7,8226.3,44.81
+ORD-0654,2023-07-01,July,Q3,South,Vikram Patel,Sports,Football,11,800,15,7480.0,4877.63,2602.37,34.79
+ORD-0431,2023-07-02,July,Q3,North,Neha Gupta,Furniture,Table,13,8000,10,93600.0,52396.36,41203.64,44.02
+ORD-0952,2023-07-02,July,Q3,East,Rajesh Verma,Sports,Cycle,16,7000,15,95200.0,63844.27,31355.73,32.94
+ORD-0686,2023-07-02,July,Q3,North,Rahul Sharma,Sports,Badminton,5,600,15,2550.0,1676.04,873.96,34.27
+ORD-0884,2023-07-03,July,Q3,South,Amit Kumar,Electronics,Headphones,10,3500,0,35000.0,23783.48,11216.52,32.05
+ORD-0652,2023-07-04,July,Q3,East,Vikram Patel,Electronics,Headphones,12,3500,10,37800.0,25004.64,12795.36,33.85
+ORD-0465,2023-07-04,July,Q3,South,Rahul Sharma,Sports,Yoga Mat,1,500,5,475.0,269.57,205.43,43.25
+ORD-0924,2023-07-05,July,Q3,North,Kavita Nair,Furniture,Bed,19,18000,5,324900.0,215446.04,109453.96,33.69
+ORD-0143,2023-07-06,July,Q3,North,Kavita Nair,Furniture,Bed,5,18000,0,90000.0,65873.3,24126.7,26.81
+ORD-0618,2023-07-07,July,Q3,West,Kavita Nair,Furniture,Sofa,20,22000,0,440000.0,329278.28,110721.72,25.16
+ORD-0147,2023-07-08,July,Q3,North,Pooja Mehta,Electronics,Tablet,9,25000,10,202500.0,126806.53,75693.47,37.38
+ORD-0990,2023-07-08,July,Q3,East,Pooja Mehta,Furniture,Table,10,8000,0,80000.0,54326.36,25673.64,32.09
+ORD-0232,2023-07-09,July,Q3,South,Pooja Mehta,Sports,Cricket Bat,12,2500,5,28500.0,20024.58,8475.42,29.74
+ORD-0468,2023-07-09,July,Q3,West,Amit Kumar,Furniture,Chair,13,4000,0,52000.0,30540.46,21459.54,41.27
+ORD-0151,2023-07-09,July,Q3,West,Pooja Mehta,Sports,Football,18,800,5,13680.0,9130.96,4549.04,33.25
+ORD-0809,2023-07-09,July,Q3,East,Rahul Sharma,Food & Beverages,Tea,18,150,0,2700.0,1485.46,1214.54,44.98
+ORD-0527,2023-07-10,July,Q3,East,Priya Singh,Food & Beverages,Biscuits,11,40,0,440.0,252.02,187.98,42.72
+ORD-0411,2023-07-10,July,Q3,East,Amit Kumar,Food & Beverages,Snacks,5,80,15,340.0,240.12,99.88,29.38
+ORD-0434,2023-07-10,July,Q3,South,Rajesh Verma,Clothing,Jeans,3,1200,10,3240.0,2161.8,1078.2,33.28
+ORD-0905,2023-07-10,July,Q3,East,Amit Kumar,Electronics,Tablet,15,25000,10,337500.0,251468.93,86031.07,25.49
+ORD-0298,2023-07-11,July,Q3,South,Rajesh Verma,Food & Beverages,Tea,13,150,5,1852.5,1341.07,511.43,27.61
+ORD-0357,2023-07-11,July,Q3,South,Pooja Mehta,Sports,Cycle,13,7000,5,86450.0,60901.3,25548.7,29.55
+ORD-0450,2023-07-11,July,Q3,East,Priya Singh,Clothing,T-Shirt,13,500,10,5850.0,3335.71,2514.29,42.98
+ORD-0862,2023-07-12,July,Q3,North,Kavita Nair,Electronics,Mobile,6,18000,0,108000.0,78399.94,29600.06,27.41
+ORD-0918,2023-07-12,July,Q3,North,Kavita Nair,Sports,Badminton,3,600,0,1800.0,1137.41,662.59,36.81
+ORD-0337,2023-07-12,July,Q3,East,Arun Joshi,Food & Beverages,Tea,14,150,0,2100.0,1440.47,659.53,31.41
+ORD-0329,2023-07-13,July,Q3,West,Rajesh Verma,Electronics,Laptop,18,55000,5,940500.0,527830.22,412669.78,43.88
+ORD-0968,2023-07-13,July,Q3,North,Sunita Rao,Food & Beverages,Biscuits,19,40,5,722.0,443.66,278.34,38.55
+ORD-0458,2023-07-13,July,Q3,West,Pooja Mehta,Food & Beverages,Tea,12,150,10,1620.0,1012.61,607.39,37.49
+ORD-0072,2023-07-14,July,Q3,North,Kavita Nair,Food & Beverages,Juice,16,60,0,960.0,709.01,250.99,26.14
+ORD-0811,2023-07-15,July,Q3,West,Rajesh Verma,Food & Beverages,Snacks,14,80,10,1008.0,596.98,411.02,40.78
+ORD-0832,2023-07-15,July,Q3,East,Pooja Mehta,Food & Beverages,Coffee,11,300,10,2970.0,2039.13,930.87,31.34
+ORD-0889,2023-07-16,July,Q3,North,Priya Singh,Sports,Badminton,12,600,5,6840.0,4608.97,2231.03,32.62
+ORD-0070,2023-07-16,July,Q3,South,Neha Gupta,Electronics,Mobile,5,18000,15,76500.0,45348.48,31151.52,40.72
+ORD-0252,2023-07-16,July,Q3,North,Vikram Patel,Clothing,T-Shirt,20,500,5,9500.0,5696.71,3803.29,40.03
+ORD-0509,2023-07-16,July,Q3,West,Pooja Mehta,Food & Beverages,Juice,1,60,0,60.0,39.41,20.59,34.32
+ORD-0225,2023-07-17,July,Q3,West,Pooja Mehta,Furniture,Bed,11,18000,0,198000.0,128549.65,69450.35,35.08
+ORD-0887,2023-07-17,July,Q3,North,Priya Singh,Furniture,Bed,11,18000,10,178200.0,99175.93,79024.07,44.35
+ORD-0490,2023-07-17,July,Q3,East,Rahul Sharma,Furniture,Chair,2,4000,0,8000.0,5766.11,2233.89,27.92
+ORD-0367,2023-07-18,July,Q3,East,Kavita Nair,Food & Beverages,Biscuits,20,40,5,760.0,507.22,252.78,33.26
+ORD-0841,2023-07-18,July,Q3,North,Rajesh Verma,Electronics,Tablet,11,25000,0,275000.0,165453.12,109546.88,39.84
+ORD-0743,2023-07-18,July,Q3,East,Amit Kumar,Sports,Yoga Mat,16,500,5,7600.0,4389.02,3210.98,42.25
+ORD-0234,2023-07-18,July,Q3,West,Arun Joshi,Electronics,Mobile,18,18000,0,324000.0,195163.13,128836.87,39.76
+ORD-0992,2023-07-18,July,Q3,South,Pooja Mehta,Furniture,Chair,1,4000,5,3800.0,2794.91,1005.09,26.45
+ORD-0074,2023-07-19,July,Q3,West,Rahul Sharma,Furniture,Bed,11,18000,15,168300.0,115424.92,52875.08,31.42
+ORD-0557,2023-07-19,July,Q3,South,Arun Joshi,Sports,Cycle,8,7000,10,50400.0,35625.82,14774.18,29.31
+ORD-0622,2023-07-19,July,Q3,North,Amit Kumar,Food & Beverages,Snacks,1,80,20,64.0,36.37,27.63,43.17
+ORD-0792,2023-07-20,July,Q3,North,Rajesh Verma,Food & Beverages,Coffee,6,300,15,1530.0,1023.91,506.09,33.08
+ORD-0796,2023-07-20,July,Q3,East,Sunita Rao,Clothing,Jeans,6,1200,15,6120.0,4488.73,1631.27,26.65
+ORD-0254,2023-07-21,July,Q3,North,Priya Singh,Furniture,Bed,17,18000,5,290700.0,216088.16,74611.84,25.67
+ORD-0549,2023-07-23,July,Q3,South,Vikram Patel,Food & Beverages,Biscuits,11,40,0,440.0,281.85,158.15,35.94
+ORD-0405,2023-07-23,July,Q3,North,Rahul Sharma,Furniture,Table,17,8000,0,136000.0,91897.12,44102.88,32.43
+ORD-0749,2023-07-23,July,Q3,East,Pooja Mehta,Electronics,Mobile,10,18000,20,144000.0,103035.49,40964.51,28.45
+ORD-0660,2023-07-23,July,Q3,South,Amit Kumar,Furniture,Chair,4,4000,0,16000.0,9004.14,6995.86,43.72
+ORD-0467,2023-07-23,July,Q3,North,Vikram Patel,Electronics,Headphones,16,3500,5,53200.0,38781.5,14418.5,27.1
+ORD-0154,2023-07-23,July,Q3,East,Rahul Sharma,Furniture,Wardrobe,9,15000,0,135000.0,100391.59,34608.41,25.64
+ORD-0661,2023-07-23,July,Q3,North,Rahul Sharma,Food & Beverages,Biscuits,17,40,20,544.0,407.57,136.43,25.08
+ORD-0327,2023-07-23,July,Q3,East,Vikram Patel,Sports,Badminton,3,600,0,1800.0,1335.35,464.65,25.81
+ORD-0636,2023-07-24,July,Q3,East,Priya Singh,Furniture,Table,11,8000,0,88000.0,58160.11,29839.89,33.91
+ORD-0052,2023-07-24,July,Q3,North,Neha Gupta,Clothing,Jeans,11,1200,0,13200.0,9541.89,3658.11,27.71
+ORD-0250,2023-07-24,July,Q3,East,Sunita Rao,Clothing,Jacket,5,2500,20,10000.0,6241.08,3758.92,37.59
+ORD-0186,2023-07-25,July,Q3,West,Kavita Nair,Electronics,Mobile,17,18000,0,306000.0,192520.92,113479.08,37.08
+ORD-0029,2023-07-26,July,Q3,North,Rahul Sharma,Food & Beverages,Coffee,11,300,20,2640.0,1906.96,733.04,27.77
+ORD-0514,2023-07-26,July,Q3,South,Amit Kumar,Food & Beverages,Snacks,1,80,0,80.0,47.59,32.41,40.51
+ORD-0630,2023-07-26,July,Q3,South,Pooja Mehta,Furniture,Table,19,8000,0,152000.0,91537.67,60462.33,39.78
+ORD-0804,2023-07-27,July,Q3,South,Vikram Patel,Electronics,Headphones,3,3500,10,9450.0,5403.03,4046.97,42.83
+ORD-0906,2023-07-27,July,Q3,North,Rahul Sharma,Sports,Badminton,16,600,20,7680.0,4447.31,3232.69,42.09
+ORD-0432,2023-07-27,July,Q3,South,Rahul Sharma,Furniture,Sofa,15,22000,10,297000.0,207785.86,89214.14,30.04
+ORD-0184,2023-07-27,July,Q3,West,Kavita Nair,Furniture,Wardrobe,14,15000,0,210000.0,120337.28,89662.72,42.7
+ORD-0628,2023-07-27,July,Q3,East,Rajesh Verma,Furniture,Bed,19,18000,0,342000.0,223513.6,118486.4,34.65
+ORD-0498,2023-07-27,July,Q3,East,Rajesh Verma,Food & Beverages,Snacks,13,80,15,884.0,492.44,391.56,44.29
+ORD-0120,2023-07-28,July,Q3,North,Arun Joshi,Clothing,Jacket,3,2500,0,7500.0,5613.39,1886.61,25.15
+ORD-0984,2023-07-28,July,Q3,East,Priya Singh,Furniture,Wardrobe,12,15000,15,153000.0,104267.38,48732.62,31.85
+ORD-0308,2023-07-29,July,Q3,East,Rajesh Verma,Food & Beverages,Biscuits,5,40,0,200.0,125.06,74.94,37.47
+ORD-0197,2023-07-29,July,Q3,East,Rajesh Verma,Furniture,Sofa,11,22000,15,205700.0,137732.02,67967.98,33.04
+ORD-0114,2023-07-29,July,Q3,West,Sunita Rao,Food & Beverages,Coffee,11,300,0,3300.0,2257.29,1042.71,31.6
+ORD-0397,2023-07-30,July,Q3,South,Amit Kumar,Food & Beverages,Snacks,20,80,15,1360.0,868.33,491.67,36.15
+ORD-0776,2023-07-31,July,Q3,East,Pooja Mehta,Food & Beverages,Biscuits,2,40,20,64.0,41.87,22.13,34.58
+ORD-0705,2023-07-31,July,Q3,East,Sunita Rao,Furniture,Wardrobe,14,15000,20,168000.0,116789.15,51210.85,30.48
+ORD-0828,2023-07-31,July,Q3,South,Pooja Mehta,Clothing,Kurta,13,800,0,10400.0,7094.19,3305.81,31.79
+ORD-0780,2023-07-31,July,Q3,North,Vikram Patel,Furniture,Sofa,3,22000,5,62700.0,45483.19,17216.81,27.46
+ORD-0477,2023-08-01,August,Q3,West,Priya Singh,Sports,Cycle,5,7000,0,35000.0,23216.16,11783.84,33.67
+ORD-0063,2023-08-01,August,Q3,North,Pooja Mehta,Food & Beverages,Biscuits,19,40,0,760.0,527.19,232.81,30.63
+ORD-0210,2023-08-01,August,Q3,East,Rahul Sharma,Clothing,Saree,2,3000,5,5700.0,3707.29,1992.71,34.96
+ORD-0517,2023-08-02,August,Q3,North,Priya Singh,Electronics,Laptop,15,55000,5,783750.0,450436.03,333313.97,42.53
+ORD-0558,2023-08-02,August,Q3,West,Rajesh Verma,Furniture,Chair,11,4000,10,39600.0,22206.11,17393.89,43.92
+ORD-0247,2023-08-02,August,Q3,South,Kavita Nair,Sports,Badminton,20,600,15,10200.0,5671.78,4528.22,44.39
+ORD-0897,2023-08-02,August,Q3,North,Vikram Patel,Clothing,Kurta,18,800,0,14400.0,9284.85,5115.15,35.52
+ORD-0003,2023-08-03,August,Q3,South,Arun Joshi,Sports,Cricket Bat,8,2500,5,19000.0,12689.21,6310.79,33.21
+ORD-0646,2023-08-03,August,Q3,West,Neha Gupta,Clothing,Saree,12,3000,0,36000.0,25951.15,10048.85,27.91
+ORD-0927,2023-08-03,August,Q3,East,Sunita Rao,Clothing,T-Shirt,12,500,0,6000.0,3647.83,2352.17,39.2
+ORD-0058,2023-08-04,August,Q3,South,Neha Gupta,Food & Beverages,Snacks,13,80,15,884.0,618.47,265.53,30.04
+ORD-0649,2023-08-04,August,Q3,North,Amit Kumar,Clothing,Saree,16,3000,0,48000.0,35957.39,12042.61,25.09
+ORD-0996,2023-08-04,August,Q3,North,Sunita Rao,Furniture,Wardrobe,20,15000,15,255000.0,181734.83,73265.17,28.73
+ORD-0995,2023-08-05,August,Q3,West,Sunita Rao,Food & Beverages,Juice,4,60,20,192.0,111.76,80.24,41.79
+ORD-0987,2023-08-05,August,Q3,West,Neha Gupta,Furniture,Sofa,7,22000,0,154000.0,87989.87,66010.13,42.86
+ORD-0642,2023-08-05,August,Q3,North,Arun Joshi,Sports,Football,16,800,10,11520.0,6411.02,5108.98,44.35
+ORD-0989,2023-08-05,August,Q3,East,Arun Joshi,Furniture,Chair,16,4000,15,54400.0,32600.25,21799.75,40.07
+ORD-0226,2023-08-06,August,Q3,East,Priya Singh,Food & Beverages,Snacks,3,80,5,228.0,152.87,75.13,32.95
+ORD-0951,2023-08-06,August,Q3,North,Neha Gupta,Sports,Yoga Mat,16,500,0,8000.0,5623.71,2376.29,29.7
+ORD-0914,2023-08-07,August,Q3,West,Amit Kumar,Electronics,Tablet,12,25000,5,285000.0,178001.38,106998.62,37.54
+ORD-0412,2023-08-08,August,Q3,North,Sunita Rao,Furniture,Chair,9,4000,10,32400.0,18233.89,14166.11,43.72
+ORD-0843,2023-08-09,August,Q3,South,Arun Joshi,Food & Beverages,Coffee,7,300,10,1890.0,1282.68,607.32,32.13
+ORD-0056,2023-08-09,August,Q3,South,Sunita Rao,Food & Beverages,Coffee,3,300,15,765.0,561.63,203.37,26.58
+ORD-0256,2023-08-09,August,Q3,North,Priya Singh,Food & Beverages,Snacks,5,80,0,400.0,278.2,121.8,30.45
+ORD-0716,2023-08-10,August,Q3,North,Neha Gupta,Food & Beverages,Juice,10,60,20,480.0,301.85,178.15,37.11
+ORD-0648,2023-08-10,August,Q3,South,Arun Joshi,Electronics,Tablet,13,25000,0,325000.0,188229.84,136770.16,42.08
+ORD-0665,2023-08-11,August,Q3,West,Kavita Nair,Sports,Football,17,800,15,11560.0,7836.59,3723.41,32.21
+ORD-0409,2023-08-11,August,Q3,South,Priya Singh,Clothing,T-Shirt,4,500,5,1900.0,1277.67,622.33,32.75
+ORD-0330,2023-08-11,August,Q3,North,Pooja Mehta,Electronics,Mobile,11,18000,10,178200.0,132842.01,45357.99,25.45
+ORD-0451,2023-08-12,August,Q3,South,Amit Kumar,Furniture,Sofa,16,22000,15,299200.0,183546.24,115653.76,38.65
+ORD-0981,2023-08-12,August,Q3,West,Arun Joshi,Furniture,Bed,14,18000,15,214200.0,156608.29,57591.71,26.89
+ORD-0183,2023-08-12,August,Q3,West,Rahul Sharma,Furniture,Chair,1,4000,5,3800.0,2790.08,1009.92,26.58
+ORD-0970,2023-08-12,August,Q3,East,Sunita Rao,Furniture,Table,7,8000,5,53200.0,36021.13,17178.87,32.29
+ORD-0196,2023-08-13,August,Q3,South,Pooja Mehta,Clothing,T-Shirt,17,500,10,7650.0,5140.5,2509.5,32.8
+ORD-0745,2023-08-13,August,Q3,North,Amit Kumar,Clothing,Jeans,20,1200,5,22800.0,15676.65,7123.35,31.24
+ORD-0351,2023-08-13,August,Q3,West,Neha Gupta,Sports,Cricket Bat,10,2500,20,20000.0,13771.34,6228.66,31.14
+ORD-0625,2023-08-13,August,Q3,South,Pooja Mehta,Sports,Cricket Bat,1,2500,0,2500.0,1800.28,699.72,27.99
+ORD-0347,2023-08-14,August,Q3,West,Sunita Rao,Food & Beverages,Snacks,11,80,5,836.0,596.15,239.85,28.69
+ORD-0206,2023-08-14,August,Q3,East,Kavita Nair,Food & Beverages,Tea,15,150,20,1800.0,1091.44,708.56,39.36
+ORD-0389,2023-08-14,August,Q3,North,Amit Kumar,Food & Beverages,Coffee,15,300,0,4500.0,3367.65,1132.35,25.16
+ORD-0722,2023-08-15,August,Q3,East,Kavita Nair,Furniture,Table,20,8000,0,160000.0,102094.83,57905.17,36.19
+ORD-0483,2023-08-15,August,Q3,South,Vikram Patel,Electronics,Mobile,11,18000,0,198000.0,137760.46,60239.54,30.42
+ORD-0060,2023-08-15,August,Q3,East,Pooja Mehta,Food & Beverages,Biscuits,15,40,15,510.0,302.3,207.7,40.73
+ORD-0658,2023-08-16,August,Q3,West,Vikram Patel,Furniture,Wardrobe,12,15000,15,153000.0,102109.75,50890.25,33.26
+ORD-0067,2023-08-17,August,Q3,West,Arun Joshi,Food & Beverages,Biscuits,6,40,15,204.0,147.35,56.65,27.77
+ORD-0915,2023-08-17,August,Q3,East,Vikram Patel,Furniture,Sofa,18,22000,0,396000.0,234883.06,161116.94,40.69
+ORD-0030,2023-08-18,August,Q3,South,Arun Joshi,Clothing,Jeans,5,1200,5,5700.0,3344.18,2355.82,41.33
+ORD-0560,2023-08-18,August,Q3,South,Vikram Patel,Sports,Football,6,800,15,4080.0,2304.77,1775.23,43.51
+ORD-0537,2023-08-18,August,Q3,West,Kavita Nair,Electronics,Headphones,3,3500,20,8400.0,5457.41,2942.59,35.03
+ORD-0473,2023-08-18,August,Q3,South,Priya Singh,Electronics,Smartwatch,6,8000,0,48000.0,35732.78,12267.22,25.56
+ORD-0958,2023-08-19,August,Q3,North,Rajesh Verma,Electronics,Headphones,11,3500,20,30800.0,19258.23,11541.77,37.47
+ORD-0311,2023-08-19,August,Q3,East,Priya Singh,Furniture,Table,12,8000,0,96000.0,63084.2,32915.8,34.29
+ORD-0459,2023-08-20,August,Q3,South,Amit Kumar,Food & Beverages,Biscuits,3,40,20,96.0,69.04,26.96,28.08
+ORD-0427,2023-08-20,August,Q3,East,Sunita Rao,Furniture,Bed,9,18000,0,162000.0,91519.87,70480.13,43.51
+ORD-0507,2023-08-20,August,Q3,North,Rahul Sharma,Clothing,Jacket,9,2500,0,22500.0,15800.37,6699.63,29.78
+ORD-0429,2023-08-20,August,Q3,East,Neha Gupta,Food & Beverages,Coffee,10,300,5,2850.0,1718.55,1131.45,39.7
+ORD-0541,2023-08-20,August,Q3,West,Sunita Rao,Sports,Cycle,4,7000,0,28000.0,19652.19,8347.81,29.81
+ORD-0875,2023-08-21,August,Q3,South,Kavita Nair,Food & Beverages,Tea,6,150,5,855.0,534.12,320.88,37.53
+ORD-0290,2023-08-21,August,Q3,West,Amit Kumar,Clothing,Jeans,20,1200,0,24000.0,15196.06,8803.94,36.68
+ORD-0953,2023-08-21,August,Q3,East,Amit Kumar,Food & Beverages,Juice,4,60,0,240.0,144.03,95.97,39.99
+ORD-0138,2023-08-22,August,Q3,West,Vikram Patel,Sports,Badminton,10,600,0,6000.0,4499.25,1500.75,25.01
+ORD-0902,2023-08-22,August,Q3,East,Vikram Patel,Electronics,Mobile,6,18000,10,97200.0,71425.12,25774.88,26.52
+ORD-0122,2023-08-22,August,Q3,West,Neha Gupta,Food & Beverages,Juice,18,60,0,1080.0,676.85,403.15,37.33
+ORD-0476,2023-08-23,August,Q3,East,Arun Joshi,Sports,Badminton,1,600,20,480.0,331.24,148.76,30.99
+ORD-0758,2023-08-23,August,Q3,East,Rahul Sharma,Clothing,T-Shirt,16,500,20,6400.0,4158.26,2241.74,35.03
+ORD-0573,2023-08-24,August,Q3,South,Rahul Sharma,Food & Beverages,Coffee,11,300,0,3300.0,1872.76,1427.24,43.25
+ORD-0849,2023-08-24,August,Q3,East,Priya Singh,Electronics,Tablet,10,25000,15,212500.0,125507.62,86992.38,40.94
+ORD-0932,2023-08-24,August,Q3,North,Rajesh Verma,Clothing,Kurta,3,800,0,2400.0,1713.05,686.95,28.62
+ORD-0185,2023-08-24,August,Q3,South,Kavita Nair,Electronics,Tablet,12,25000,0,300000.0,191202.71,108797.29,36.27
+ORD-0117,2023-08-25,August,Q3,North,Arun Joshi,Food & Beverages,Biscuits,14,40,0,560.0,329.01,230.99,41.25
+ORD-0583,2023-08-25,August,Q3,North,Arun Joshi,Electronics,Mobile,18,18000,0,324000.0,197034.29,126965.71,39.19
+ORD-0136,2023-08-25,August,Q3,South,Neha Gupta,Food & Beverages,Biscuits,9,40,5,342.0,205.56,136.44,39.89
+ORD-0919,2023-08-25,August,Q3,South,Arun Joshi,Furniture,Bed,19,18000,20,273600.0,200541.8,73058.2,26.7
+ORD-0066,2023-08-26,August,Q3,West,Amit Kumar,Clothing,T-Shirt,17,500,10,7650.0,5118.54,2531.46,33.09
+ORD-0071,2023-08-27,August,Q3,East,Arun Joshi,Food & Beverages,Juice,14,60,0,840.0,496.75,343.25,40.86
+ORD-0251,2023-08-27,August,Q3,East,Neha Gupta,Sports,Cricket Bat,4,2500,0,10000.0,6399.19,3600.81,36.01
+ORD-0882,2023-08-29,August,Q3,North,Rahul Sharma,Electronics,Headphones,17,3500,0,59500.0,37790.8,21709.2,36.49
+ORD-0191,2023-08-29,August,Q3,West,Priya Singh,Furniture,Table,15,8000,15,102000.0,62277.54,39722.46,38.94
+ORD-0218,2023-08-29,August,Q3,North,Rajesh Verma,Electronics,Smartwatch,2,8000,15,13600.0,8532.32,5067.68,37.26
+ORD-0443,2023-08-30,August,Q3,East,Rahul Sharma,Clothing,T-Shirt,17,500,0,8500.0,5978.63,2521.37,29.66
+ORD-0831,2023-08-31,August,Q3,West,Rajesh Verma,Sports,Football,9,800,0,7200.0,4723.84,2476.16,34.39
+ORD-0223,2023-08-31,August,Q3,West,Arun Joshi,Furniture,Wardrobe,9,15000,0,135000.0,94588.85,40411.15,29.93
+ORD-0578,2023-08-31,August,Q3,West,Rahul Sharma,Food & Beverages,Juice,6,60,10,324.0,192.45,131.55,40.6
+ORD-0160,2023-09-01,September,Q3,North,Priya Singh,Food & Beverages,Biscuits,15,40,20,480.0,298.76,181.24,37.76
+ORD-0611,2023-09-01,September,Q3,North,Amit Kumar,Clothing,Kurta,20,800,10,14400.0,8032.43,6367.57,44.22
+ORD-0830,2023-09-01,September,Q3,West,Rajesh Verma,Electronics,Mobile,10,18000,5,171000.0,119568.35,51431.65,30.08
+ORD-0100,2023-09-02,September,Q3,North,Vikram Patel,Furniture,Table,4,8000,20,25600.0,14414.56,11185.44,43.69
+ORD-0448,2023-09-02,September,Q3,North,Arun Joshi,Sports,Football,1,800,0,800.0,586.86,213.14,26.64
+ORD-0314,2023-09-03,September,Q3,South,Priya Singh,Electronics,Mobile,8,18000,15,122400.0,82115.75,40284.25,32.91
+ORD-0441,2023-09-03,September,Q3,West,Sunita Rao,Sports,Cricket Bat,18,2500,20,36000.0,23289.69,12710.31,35.31
+ORD-0612,2023-09-04,September,Q3,North,Priya Singh,Sports,Cycle,5,7000,10,31500.0,20722.5,10777.5,34.21
+ORD-0125,2023-09-05,September,Q3,West,Arun Joshi,Food & Beverages,Tea,12,150,0,1800.0,1188.69,611.31,33.96
+ORD-0711,2023-09-05,September,Q3,North,Sunita Rao,Sports,Football,6,800,5,4560.0,3261.04,1298.96,28.49
+ORD-0249,2023-09-05,September,Q3,West,Rajesh Verma,Electronics,Mobile,15,18000,0,270000.0,166870.4,103129.6,38.2
+ORD-0096,2023-09-05,September,Q3,South,Neha Gupta,Sports,Football,9,800,15,6120.0,4087.65,2032.35,33.21
+ORD-0901,2023-09-05,September,Q3,East,Neha Gupta,Furniture,Table,12,8000,0,96000.0,67579.19,28420.81,29.61
+ORD-0783,2023-09-05,September,Q3,South,Sunita Rao,Sports,Football,17,800,0,13600.0,9589.45,4010.55,29.49
+ORD-0824,2023-09-06,September,Q3,North,Vikram Patel,Electronics,Tablet,3,25000,0,75000.0,48833.94,26166.06,34.89
+ORD-0960,2023-09-07,September,Q3,East,Rajesh Verma,Food & Beverages,Tea,4,150,10,540.0,369.9,170.1,31.5
+ORD-0320,2023-09-08,September,Q3,East,Vikram Patel,Food & Beverages,Biscuits,16,40,5,608.0,354.86,253.14,41.63
+ORD-0321,2023-09-08,September,Q3,South,Arun Joshi,Furniture,Table,6,8000,10,43200.0,32316.4,10883.6,25.19
+ORD-0913,2023-09-09,September,Q3,West,Neha Gupta,Electronics,Smartwatch,11,8000,10,79200.0,53144.43,26055.57,32.9
+ORD-0447,2023-09-09,September,Q3,East,Amit Kumar,Clothing,Saree,2,3000,0,6000.0,3367.4,2632.6,43.88
+ORD-0842,2023-09-09,September,Q3,West,Priya Singh,Furniture,Table,7,8000,10,50400.0,31677.76,18722.24,37.15
+ORD-0344,2023-09-10,September,Q3,East,Vikram Patel,Clothing,Jacket,5,2500,0,12500.0,7293.02,5206.98,41.66
+ORD-0150,2023-09-10,September,Q3,North,Vikram Patel,Clothing,T-Shirt,4,500,0,2000.0,1193.92,806.08,40.3
+ORD-0956,2023-09-10,September,Q3,North,Arun Joshi,Sports,Cricket Bat,15,2500,0,37500.0,22826.72,14673.28,39.13
+ORD-0307,2023-09-11,September,Q3,West,Arun Joshi,Sports,Football,2,800,0,1600.0,1181.31,418.69,26.17
+ORD-0883,2023-09-11,September,Q3,North,Pooja Mehta,Food & Beverages,Juice,8,60,0,480.0,317.61,162.39,33.83
+ORD-0121,2023-09-13,September,Q3,North,Amit Kumar,Electronics,Headphones,10,3500,10,31500.0,21769.09,9730.91,30.89
+ORD-0751,2023-09-14,September,Q3,West,Priya Singh,Clothing,Saree,4,3000,0,12000.0,8468.95,3531.05,29.43
+ORD-0110,2023-09-14,September,Q3,West,Vikram Patel,Food & Beverages,Snacks,18,80,5,1368.0,872.17,495.83,36.24
+ORD-0242,2023-09-15,September,Q3,South,Rajesh Verma,Sports,Football,2,800,20,1280.0,735.79,544.21,42.52
+ORD-0128,2023-09-15,September,Q3,North,Amit Kumar,Clothing,Saree,19,3000,0,57000.0,41264.58,15735.42,27.61
+ORD-0258,2023-09-16,September,Q3,North,Rajesh Verma,Sports,Badminton,15,600,20,7200.0,4751.79,2448.21,34.0
+ORD-0515,2023-09-16,September,Q3,North,Kavita Nair,Clothing,Jeans,6,1200,0,7200.0,4487.89,2712.11,37.67
+ORD-0057,2023-09-17,September,Q3,North,Vikram Patel,Sports,Badminton,10,600,15,5100.0,3221.56,1878.44,36.83
+ORD-0867,2023-09-17,September,Q3,East,Arun Joshi,Sports,Cricket Bat,8,2500,5,19000.0,13377.26,5622.74,29.59
+ORD-0085,2023-09-17,September,Q3,East,Priya Singh,Sports,Yoga Mat,11,500,0,5500.0,3959.53,1540.47,28.01
+ORD-0782,2023-09-17,September,Q3,North,Pooja Mehta,Electronics,Mobile,1,18000,20,14400.0,9310.07,5089.93,35.35
+ORD-0192,2023-09-17,September,Q3,North,Sunita Rao,Furniture,Wardrobe,3,15000,0,45000.0,28905.68,16094.32,35.77
+ORD-0263,2023-09-18,September,Q3,East,Arun Joshi,Sports,Badminton,18,600,5,10260.0,7097.33,3162.67,30.83
+ORD-0201,2023-09-18,September,Q3,North,Rajesh Verma,Clothing,Kurta,12,800,0,9600.0,5976.19,3623.81,37.75
+ORD-0413,2023-09-19,September,Q3,West,Pooja Mehta,Sports,Cricket Bat,12,2500,0,30000.0,19497.66,10502.34,35.01
+ORD-0407,2023-09-19,September,Q3,East,Priya Singh,Furniture,Chair,7,4000,20,22400.0,13016.09,9383.91,41.89
+ORD-0294,2023-09-19,September,Q3,West,Priya Singh,Clothing,Kurta,15,800,20,9600.0,5386.82,4213.18,43.89
+ORD-0316,2023-09-20,September,Q3,East,Sunita Rao,Furniture,Sofa,16,22000,5,334400.0,190514.92,143885.08,43.03
+ORD-0925,2023-09-20,September,Q3,North,Sunita Rao,Furniture,Bed,19,18000,0,342000.0,245917.16,96082.84,28.09
+ORD-0209,2023-09-20,September,Q3,East,Pooja Mehta,Electronics,Mobile,5,18000,20,72000.0,45899.6,26100.4,36.25
+ORD-0967,2023-09-21,September,Q3,West,Kavita Nair,Electronics,Headphones,14,3500,0,49000.0,27149.94,21850.06,44.59
+ORD-0285,2023-09-21,September,Q3,West,Rajesh Verma,Clothing,Jeans,11,1200,0,13200.0,8318.2,4881.8,36.98
+ORD-0061,2023-09-21,September,Q3,North,Vikram Patel,Food & Beverages,Tea,20,150,0,3000.0,1706.03,1293.97,43.13
+ORD-0819,2023-09-22,September,Q3,East,Pooja Mehta,Electronics,Mobile,3,18000,10,48600.0,35379.98,13220.02,27.2
+ORD-0597,2023-09-23,September,Q3,North,Neha Gupta,Furniture,Table,12,8000,5,91200.0,58726.86,32473.14,35.61
+ORD-0269,2023-09-23,September,Q3,North,Amit Kumar,Sports,Yoga Mat,7,500,10,3150.0,1937.28,1212.72,38.5
+ORD-0930,2023-09-23,September,Q3,North,Amit Kumar,Furniture,Table,10,8000,0,80000.0,56460.93,23539.07,29.42
+ORD-0343,2023-09-24,September,Q3,South,Kavita Nair,Electronics,Smartwatch,6,8000,15,40800.0,25546.77,15253.23,37.39
+ORD-0068,2023-09-24,September,Q3,South,Vikram Patel,Food & Beverages,Snacks,16,80,15,1088.0,650.46,437.54,40.22
+ORD-0945,2023-09-24,September,Q3,West,Priya Singh,Furniture,Chair,5,4000,5,19000.0,13346.64,5653.36,29.75
+ORD-0471,2023-09-25,September,Q3,North,Rajesh Verma,Sports,Football,14,800,10,10080.0,6929.13,3150.87,31.26
+ORD-0879,2023-09-25,September,Q3,North,Rajesh Verma,Sports,Football,16,800,20,10240.0,7671.12,2568.88,25.09
+ORD-0554,2023-09-25,September,Q3,West,Rahul Sharma,Sports,Badminton,4,600,0,2400.0,1502.82,897.18,37.38
+ORD-0610,2023-09-25,September,Q3,North,Neha Gupta,Clothing,T-Shirt,17,500,15,7225.0,4580.35,2644.65,36.6
+ORD-0616,2023-09-25,September,Q3,North,Kavita Nair,Clothing,T-Shirt,4,500,10,1800.0,992.59,807.41,44.86
+ORD-0949,2023-09-25,September,Q3,West,Pooja Mehta,Food & Beverages,Coffee,3,300,0,900.0,520.81,379.19,42.13
+ORD-0781,2023-09-26,September,Q3,East,Neha Gupta,Furniture,Bed,10,18000,0,180000.0,103040.33,76959.67,42.76
+ORD-0326,2023-09-26,September,Q3,North,Priya Singh,Food & Beverages,Tea,5,150,0,750.0,441.29,308.71,41.16
+ORD-0836,2023-09-26,September,Q3,West,Priya Singh,Electronics,Laptop,4,55000,15,187000.0,119528.24,67471.76,36.08
+ORD-0266,2023-09-26,September,Q3,West,Amit Kumar,Electronics,Smartwatch,20,8000,20,128000.0,91933.88,36066.12,28.18
+ORD-0697,2023-09-27,September,Q3,West,Pooja Mehta,Electronics,Laptop,20,55000,15,935000.0,624636.27,310363.73,33.19
+ORD-0663,2023-09-27,September,Q3,South,Amit Kumar,Furniture,Bed,6,18000,0,108000.0,60159.35,47840.65,44.3
+ORD-0911,2023-09-27,September,Q3,South,Kavita Nair,Electronics,Smartwatch,8,8000,20,51200.0,37741.21,13458.79,26.29
+ORD-0827,2023-09-28,September,Q3,West,Amit Kumar,Furniture,Table,2,8000,0,16000.0,11949.03,4050.97,25.32
+ORD-0691,2023-09-29,September,Q3,South,Priya Singh,Sports,Cycle,5,7000,5,33250.0,20253.72,12996.28,39.09
+ORD-0175,2023-09-29,September,Q3,North,Priya Singh,Electronics,Mobile,7,18000,5,119700.0,75885.79,43814.21,36.6
+ORD-0182,2023-09-30,September,Q3,South,Rajesh Verma,Food & Beverages,Tea,8,150,10,1080.0,714.68,365.32,33.83
+ORD-0386,2023-10-01,October,Q4,East,Priya Singh,Electronics,Headphones,13,3500,0,45500.0,33834.97,11665.03,25.64
+ORD-0668,2023-10-01,October,Q4,East,Pooja Mehta,Clothing,Jacket,1,2500,15,2125.0,1560.64,564.36,26.56
+ORD-0704,2023-10-01,October,Q4,East,Amit Kumar,Food & Beverages,Biscuits,20,40,5,760.0,559.9,200.1,26.33
+ORD-0571,2023-10-03,October,Q4,North,Amit Kumar,Sports,Cricket Bat,18,2500,0,45000.0,30392.4,14607.6,32.46
+ORD-0871,2023-10-03,October,Q4,North,Rahul Sharma,Food & Beverages,Coffee,6,300,0,1800.0,1272.78,527.22,29.29
+ORD-0087,2023-10-03,October,Q4,East,Kavita Nair,Clothing,Kurta,16,800,5,12160.0,7747.32,4412.68,36.29
+ORD-0375,2023-10-03,October,Q4,East,Neha Gupta,Furniture,Chair,10,4000,0,40000.0,28245.92,11754.08,29.39
+ORD-0912,2023-10-03,October,Q4,North,Priya Singh,Furniture,Table,15,8000,15,102000.0,69799.78,32200.22,31.57
+ORD-0891,2023-10-04,October,Q4,East,Neha Gupta,Clothing,Jeans,4,1200,15,4080.0,2634.45,1445.55,35.43
+ORD-0664,2023-10-04,October,Q4,West,Pooja Mehta,Furniture,Sofa,9,22000,10,178200.0,113864.27,64335.73,36.1
+ORD-0592,2023-10-04,October,Q4,East,Arun Joshi,Electronics,Smartwatch,16,8000,15,108800.0,76708.29,32091.71,29.5
+ORD-0023,2023-10-04,October,Q4,West,Neha Gupta,Sports,Cycle,7,7000,15,41650.0,25504.1,16145.9,38.77
+ORD-0736,2023-10-05,October,Q4,East,Pooja Mehta,Furniture,Wardrobe,5,15000,0,75000.0,51037.09,23962.91,31.95
+ORD-0789,2023-10-05,October,Q4,North,Neha Gupta,Sports,Cycle,12,7000,10,75600.0,46395.49,29204.51,38.63
+ORD-0552,2023-10-05,October,Q4,South,Arun Joshi,Furniture,Table,11,8000,15,74800.0,42866.46,31933.54,42.69
+ORD-0817,2023-10-07,October,Q4,East,Rajesh Verma,Food & Beverages,Tea,19,150,0,2850.0,1586.57,1263.43,44.33
+ORD-0377,2023-10-07,October,Q4,North,Pooja Mehta,Furniture,Wardrobe,7,15000,5,99750.0,56905.71,42844.29,42.95
+ORD-0907,2023-10-07,October,Q4,South,Rahul Sharma,Food & Beverages,Snacks,17,80,0,1360.0,924.05,435.95,32.06
+ORD-0073,2023-10-07,October,Q4,West,Arun Joshi,Furniture,Bed,20,18000,0,360000.0,233152.52,126847.48,35.24
+ORD-0059,2023-10-08,October,Q4,East,Rajesh Verma,Clothing,Kurta,1,800,0,800.0,485.91,314.09,39.26
+ORD-0773,2023-10-09,October,Q4,East,Arun Joshi,Electronics,Tablet,11,25000,20,220000.0,121269.78,98730.22,44.88
+ORD-0706,2023-10-09,October,Q4,South,Rajesh Verma,Sports,Football,9,800,0,7200.0,5344.78,1855.22,25.77
+ORD-0755,2023-10-09,October,Q4,South,Rajesh Verma,Sports,Yoga Mat,13,500,0,6500.0,4573.74,1926.26,29.63
+ORD-0094,2023-10-09,October,Q4,East,Rajesh Verma,Furniture,Bed,11,18000,0,198000.0,136733.06,61266.94,30.94
+ORD-0439,2023-10-09,October,Q4,West,Rajesh Verma,Clothing,Jacket,16,2500,0,40000.0,22701.77,17298.23,43.25
+ORD-0031,2023-10-09,October,Q4,North,Pooja Mehta,Food & Beverages,Tea,4,150,0,600.0,408.26,191.74,31.96
+ORD-0419,2023-10-11,October,Q4,East,Priya Singh,Furniture,Sofa,15,22000,0,330000.0,205848.68,124151.32,37.62
+ORD-0416,2023-10-11,October,Q4,South,Rahul Sharma,Food & Beverages,Tea,14,150,0,2100.0,1290.16,809.84,38.56
+ORD-0318,2023-10-11,October,Q4,North,Vikram Patel,Clothing,Jeans,19,1200,10,20520.0,14240.93,6279.07,30.6
+ORD-0156,2023-10-11,October,Q4,South,Priya Singh,Clothing,Kurta,7,800,10,5040.0,2989.68,2050.32,40.68
+ORD-0920,2023-10-11,October,Q4,West,Vikram Patel,Clothing,Jeans,16,1200,0,19200.0,13719.55,5480.45,28.54
+ORD-0799,2023-10-12,October,Q4,North,Sunita Rao,Electronics,Headphones,3,3500,20,8400.0,5127.56,3272.44,38.96
+ORD-0812,2023-10-12,October,Q4,South,Neha Gupta,Clothing,Saree,13,3000,20,31200.0,22928.77,8271.23,26.51
+ORD-0619,2023-10-13,October,Q4,West,Arun Joshi,Food & Beverages,Tea,16,150,0,2400.0,1497.7,902.3,37.6
+ORD-0959,2023-10-13,October,Q4,North,Amit Kumar,Food & Beverages,Coffee,10,300,15,2550.0,1486.21,1063.79,41.72
+ORD-0146,2023-10-13,October,Q4,South,Rajesh Verma,Electronics,Mobile,12,18000,0,216000.0,152957.46,63042.54,29.19
+ORD-0748,2023-10-13,October,Q4,West,Rahul Sharma,Electronics,Mobile,13,18000,10,210600.0,148058.53,62541.47,29.7
+ORD-0310,2023-10-13,October,Q4,West,Rajesh Verma,Electronics,Smartwatch,17,8000,0,136000.0,85365.0,50635.0,37.23
+ORD-0866,2023-10-13,October,Q4,West,Rahul Sharma,Furniture,Sofa,8,22000,0,176000.0,100936.28,75063.72,42.65
+ORD-0702,2023-10-13,October,Q4,South,Arun Joshi,Sports,Football,14,800,15,9520.0,5436.9,4083.1,42.89
+ORD-0198,2023-10-13,October,Q4,East,Priya Singh,Furniture,Chair,13,4000,0,52000.0,31220.76,20779.24,39.96
+ORD-0699,2023-10-13,October,Q4,North,Sunita Rao,Electronics,Headphones,14,3500,20,39200.0,24453.5,14746.5,37.62
+ORD-0200,2023-10-14,October,Q4,North,Vikram Patel,Food & Beverages,Tea,13,150,15,1657.5,1174.06,483.44,29.17
+ORD-0689,2023-10-14,October,Q4,West,Pooja Mehta,Furniture,Chair,10,4000,10,36000.0,24818.67,11181.33,31.06
+ORD-0921,2023-10-14,October,Q4,East,Pooja Mehta,Furniture,Wardrobe,15,15000,0,225000.0,124957.8,100042.2,44.46
+ORD-0670,2023-10-15,October,Q4,South,Rajesh Verma,Sports,Badminton,14,600,5,7980.0,4787.83,3192.17,40.0
+ORD-0169,2023-10-15,October,Q4,North,Kavita Nair,Furniture,Table,18,8000,0,144000.0,98496.38,45503.62,31.6
+ORD-0961,2023-10-15,October,Q4,West,Pooja Mehta,Sports,Cycle,6,7000,10,37800.0,21211.37,16588.63,43.89
+ORD-0396,2023-10-16,October,Q4,North,Arun Joshi,Clothing,Jeans,1,1200,10,1080.0,734.4,345.6,32.0
+ORD-0333,2023-10-16,October,Q4,East,Amit Kumar,Food & Beverages,Coffee,8,300,10,2160.0,1548.57,611.43,28.31
+ORD-0295,2023-10-16,October,Q4,West,Pooja Mehta,Clothing,Kurta,2,800,10,1440.0,925.16,514.84,35.75
+ORD-0606,2023-10-16,October,Q4,West,Kavita Nair,Furniture,Table,1,8000,15,6800.0,4730.05,2069.95,30.44
+ORD-0292,2023-10-16,October,Q4,East,Priya Singh,Sports,Yoga Mat,4,500,0,2000.0,1431.51,568.49,28.42
+ORD-0374,2023-10-17,October,Q4,South,Priya Singh,Food & Beverages,Juice,1,60,20,48.0,33.71,14.29,29.77
+ORD-0446,2023-10-18,October,Q4,North,Sunita Rao,Furniture,Wardrobe,19,15000,0,285000.0,188847.21,96152.79,33.74
+ORD-0021,2023-10-18,October,Q4,North,Neha Gupta,Furniture,Table,3,8000,0,24000.0,16713.16,7286.84,30.36
+ORD-0741,2023-10-18,October,Q4,East,Kavita Nair,Sports,Cycle,20,7000,0,140000.0,93698.1,46301.9,33.07
+ORD-0139,2023-10-20,October,Q4,South,Rajesh Verma,Food & Beverages,Coffee,12,300,10,3240.0,1973.73,1266.27,39.08
+ORD-0194,2023-10-20,October,Q4,North,Pooja Mehta,Food & Beverages,Juice,7,60,0,420.0,281.82,138.18,32.9
+ORD-0553,2023-10-20,October,Q4,West,Kavita Nair,Furniture,Wardrobe,14,15000,15,178500.0,124873.91,53626.09,30.04
+ORD-0656,2023-10-20,October,Q4,West,Kavita Nair,Clothing,Jacket,13,2500,20,26000.0,19016.78,6983.22,26.86
+ORD-0717,2023-10-20,October,Q4,North,Pooja Mehta,Clothing,Jacket,2,2500,10,4500.0,2834.27,1665.73,37.02
+ORD-0417,2023-10-20,October,Q4,East,Priya Singh,Food & Beverages,Snacks,12,80,0,960.0,624.39,335.61,34.96
+ORD-0099,2023-10-21,October,Q4,North,Rahul Sharma,Clothing,Saree,10,3000,5,28500.0,18403.67,10096.33,35.43
+ORD-0632,2023-10-22,October,Q4,East,Arun Joshi,Electronics,Smartwatch,9,8000,15,61200.0,39079.49,22120.51,36.14
+ORD-0240,2023-10-22,October,Q4,West,Rajesh Verma,Food & Beverages,Juice,3,60,0,180.0,134.01,45.99,25.55
+ORD-0349,2023-10-22,October,Q4,East,Pooja Mehta,Food & Beverages,Snacks,8,80,0,640.0,400.14,239.86,37.48
+ORD-0846,2023-10-22,October,Q4,East,Rajesh Verma,Furniture,Table,1,8000,10,7200.0,4978.95,2221.05,30.85
+ORD-0112,2023-10-23,October,Q4,North,Vikram Patel,Sports,Cycle,2,7000,20,11200.0,7854.04,3345.96,29.87
+ORD-0620,2023-10-23,October,Q4,East,Vikram Patel,Sports,Yoga Mat,12,500,20,4800.0,3317.27,1482.73,30.89
+ORD-0532,2023-10-23,October,Q4,North,Arun Joshi,Furniture,Sofa,19,22000,0,418000.0,311652.07,106347.93,25.44
+ORD-0055,2023-10-23,October,Q4,North,Rajesh Verma,Furniture,Bed,7,18000,0,126000.0,70418.54,55581.46,44.11
+ORD-0712,2023-10-23,October,Q4,East,Rahul Sharma,Sports,Cricket Bat,13,2500,0,32500.0,22945.79,9554.21,29.4
+ORD-0777,2023-10-23,October,Q4,North,Neha Gupta,Sports,Badminton,11,600,20,5280.0,3871.49,1408.51,26.68
+ORD-0027,2023-10-23,October,Q4,South,Kavita Nair,Food & Beverages,Tea,16,150,0,2400.0,1696.62,703.38,29.31
+ORD-0764,2023-10-24,October,Q4,South,Pooja Mehta,Sports,Cycle,12,7000,0,84000.0,47764.52,36235.48,43.14
+ORD-0591,2023-10-24,October,Q4,North,Kavita Nair,Electronics,Smartwatch,13,8000,20,83200.0,55578.2,27621.8,33.2
+ORD-0941,2023-10-24,October,Q4,North,Priya Singh,Sports,Football,1,800,10,720.0,427.25,292.75,40.66
+ORD-0899,2023-10-24,October,Q4,East,Rajesh Verma,Clothing,Kurta,11,800,15,7480.0,5080.49,2399.51,32.08
+ORD-0644,2023-10-25,October,Q4,South,Rajesh Verma,Electronics,Laptop,4,55000,0,220000.0,136910.5,83089.5,37.77
+ORD-0584,2023-10-25,October,Q4,North,Neha Gupta,Electronics,Tablet,16,25000,0,400000.0,248571.07,151428.93,37.86
+ORD-0199,2023-10-26,October,Q4,East,Priya Singh,Sports,Football,5,800,0,4000.0,2448.19,1551.81,38.8
+ORD-0808,2023-10-26,October,Q4,East,Priya Singh,Furniture,Bed,1,18000,10,16200.0,12106.01,4093.99,25.27
+ORD-0629,2023-10-26,October,Q4,East,Arun Joshi,Electronics,Laptop,12,55000,0,660000.0,490153.97,169846.03,25.73
+ORD-0276,2023-10-28,October,Q4,North,Kavita Nair,Furniture,Table,8,8000,0,64000.0,35849.8,28150.2,43.98
+ORD-0489,2023-10-28,October,Q4,South,Pooja Mehta,Sports,Yoga Mat,18,500,0,9000.0,5569.65,3430.35,38.12
+ORD-0379,2023-10-29,October,Q4,South,Neha Gupta,Food & Beverages,Coffee,12,300,20,2880.0,1993.39,886.61,30.79
+ORD-0103,2023-10-29,October,Q4,West,Vikram Patel,Food & Beverages,Juice,14,60,0,840.0,557.53,282.47,33.63
+ORD-0609,2023-10-30,October,Q4,West,Kavita Nair,Clothing,Jacket,3,2500,0,7500.0,4692.32,2807.68,37.44
+ORD-0803,2023-10-31,October,Q4,West,Priya Singh,Electronics,Smartwatch,20,8000,5,152000.0,93491.49,58508.51,38.49
+ORD-0779,2023-11-01,November,Q4,West,Amit Kumar,Clothing,Kurta,4,800,20,2560.0,1808.56,751.44,29.35
+ORD-0109,2023-11-01,November,Q4,South,Vikram Patel,Electronics,Laptop,19,55000,0,1045000.0,666533.07,378466.93,36.22
+ORD-0102,2023-11-02,November,Q4,West,Kavita Nair,Clothing,T-Shirt,20,500,0,10000.0,7051.39,2948.61,29.49
+ORD-0730,2023-11-02,November,Q4,East,Pooja Mehta,Sports,Cricket Bat,18,2500,0,45000.0,26427.76,18572.24,41.27
+ORD-0164,2023-11-02,November,Q4,East,Rajesh Verma,Clothing,Jacket,17,2500,0,42500.0,27231.58,15268.42,35.93
+ORD-0370,2023-11-02,November,Q4,West,Rajesh Verma,Clothing,Kurta,5,800,10,3600.0,2256.27,1343.73,37.33
+ORD-0305,2023-11-03,November,Q4,East,Kavita Nair,Furniture,Table,11,8000,0,88000.0,53711.05,34288.95,38.96
+ORD-0626,2023-11-03,November,Q4,South,Rahul Sharma,Sports,Badminton,17,600,10,9180.0,6331.35,2848.65,31.03
+ORD-0303,2023-11-03,November,Q4,North,Pooja Mehta,Electronics,Smartwatch,2,8000,0,16000.0,11169.73,4830.27,30.19
+ORD-0353,2023-11-03,November,Q4,North,Pooja Mehta,Food & Beverages,Juice,16,60,10,864.0,544.46,319.54,36.98
+ORD-0180,2023-11-03,November,Q4,South,Rajesh Verma,Furniture,Chair,2,4000,0,8000.0,4727.08,3272.92,40.91
+ORD-0760,2023-11-04,November,Q4,North,Kavita Nair,Food & Beverages,Juice,1,60,0,60.0,43.59,16.41,27.35
+ORD-0492,2023-11-04,November,Q4,South,Amit Kumar,Electronics,Headphones,1,3500,0,3500.0,2101.67,1398.33,39.95
+ORD-0348,2023-11-05,November,Q4,East,Sunita Rao,Sports,Football,7,800,5,5320.0,3260.29,2059.71,38.72
+ORD-0762,2023-11-05,November,Q4,North,Kavita Nair,Electronics,Mobile,10,18000,0,180000.0,132133.85,47866.15,26.59
+ORD-0111,2023-11-06,November,Q4,West,Sunita Rao,Sports,Cricket Bat,9,2500,0,22500.0,12785.97,9714.03,43.17
+ORD-0548,2023-11-07,November,Q4,West,Kavita Nair,Clothing,T-Shirt,11,500,10,4950.0,3595.08,1354.92,27.37
+ORD-0519,2023-11-07,November,Q4,East,Kavita Nair,Electronics,Smartwatch,5,8000,5,38000.0,27212.96,10787.04,28.39
+ORD-0607,2023-11-07,November,Q4,South,Pooja Mehta,Furniture,Chair,16,4000,20,51200.0,33092.28,18107.72,35.37
+ORD-0462,2023-11-07,November,Q4,West,Amit Kumar,Food & Beverages,Coffee,14,300,0,4200.0,2354.99,1845.01,43.93
+ORD-0135,2023-11-09,November,Q4,South,Priya Singh,Clothing,Jeans,13,1200,10,14040.0,9640.24,4399.76,31.34
+ORD-0833,2023-11-09,November,Q4,East,Rajesh Verma,Electronics,Laptop,9,55000,0,495000.0,299012.29,195987.71,39.59
+ORD-0530,2023-11-09,November,Q4,West,Amit Kumar,Food & Beverages,Biscuits,13,40,20,416.0,258.64,157.36,37.83
+ORD-0857,2023-11-09,November,Q4,North,Pooja Mehta,Electronics,Tablet,6,25000,20,120000.0,80185.02,39814.98,33.18
+ORD-0750,2023-11-10,November,Q4,West,Vikram Patel,Food & Beverages,Tea,2,150,15,255.0,166.62,88.38,34.66
+ORD-0262,2023-11-10,November,Q4,South,Sunita Rao,Sports,Cycle,11,7000,0,77000.0,48401.5,28598.5,37.14
+ORD-0302,2023-11-11,November,Q4,North,Rajesh Verma,Clothing,T-Shirt,1,500,0,500.0,295.61,204.39,40.88
+ORD-0769,2023-11-11,November,Q4,East,Amit Kumar,Furniture,Sofa,19,22000,5,397100.0,259680.03,137419.97,34.61
+ORD-0624,2023-11-11,November,Q4,West,Rajesh Verma,Sports,Cricket Bat,17,2500,0,42500.0,29423.65,13076.35,30.77
+ORD-0152,2023-11-12,November,Q4,North,Pooja Mehta,Clothing,Saree,14,3000,0,42000.0,23374.82,18625.18,44.35
+ORD-0858,2023-11-12,November,Q4,West,Kavita Nair,Electronics,Laptop,8,55000,0,440000.0,312791.91,127208.09,28.91
+ORD-0771,2023-11-12,November,Q4,North,Neha Gupta,Electronics,Headphones,14,3500,5,46550.0,26026.03,20523.97,44.09
+ORD-0774,2023-11-12,November,Q4,West,Kavita Nair,Furniture,Sofa,1,22000,20,17600.0,10298.21,7301.79,41.49
+ORD-0719,2023-11-12,November,Q4,South,Arun Joshi,Food & Beverages,Biscuits,17,40,0,680.0,406.95,273.05,40.15
+ORD-0539,2023-11-13,November,Q4,North,Kavita Nair,Sports,Cricket Bat,10,2500,10,22500.0,14905.5,7594.5,33.75
+ORD-0203,2023-11-13,November,Q4,North,Sunita Rao,Furniture,Chair,5,4000,10,18000.0,11256.19,6743.81,37.47
+ORD-0894,2023-11-14,November,Q4,East,Pooja Mehta,Electronics,Headphones,12,3500,20,33600.0,23004.62,10595.38,31.53
+ORD-0800,2023-11-14,November,Q4,West,Neha Gupta,Food & Beverages,Juice,8,60,10,432.0,251.34,180.66,41.82
+ORD-0888,2023-11-14,November,Q4,South,Priya Singh,Food & Beverages,Snacks,11,80,15,748.0,550.86,197.14,26.36
+ORD-0075,2023-11-15,November,Q4,West,Amit Kumar,Food & Beverages,Tea,18,150,0,2700.0,1974.74,725.26,26.86
+ORD-0516,2023-11-16,November,Q4,East,Arun Joshi,Electronics,Headphones,2,3500,10,6300.0,4718.3,1581.7,25.11
+ORD-0131,2023-11-17,November,Q4,West,Sunita Rao,Electronics,Tablet,16,25000,20,320000.0,210625.02,109374.98,34.18
+ORD-0733,2023-11-17,November,Q4,East,Rahul Sharma,Clothing,Kurta,9,800,5,6840.0,4980.07,1859.93,27.19
+ORD-0107,2023-11-17,November,Q4,South,Vikram Patel,Food & Beverages,Coffee,19,300,15,4845.0,3443.73,1401.27,28.92
+ORD-0104,2023-11-17,November,Q4,North,Neha Gupta,Electronics,Smartwatch,7,8000,0,56000.0,38196.8,17803.2,31.79
+ORD-0977,2023-11-17,November,Q4,West,Kavita Nair,Sports,Cycle,2,7000,10,12600.0,7435.63,5164.37,40.99
+ORD-0590,2023-11-17,November,Q4,South,Vikram Patel,Furniture,Table,3,8000,15,20400.0,11527.63,8872.37,43.49
+ORD-0142,2023-11-18,November,Q4,East,Amit Kumar,Clothing,Kurta,4,800,15,2720.0,1847.61,872.39,32.07
+ORD-0998,2023-11-18,November,Q4,West,Neha Gupta,Clothing,T-Shirt,10,500,0,5000.0,3325.81,1674.19,33.48
+ORD-0823,2023-11-19,November,Q4,East,Rahul Sharma,Sports,Badminton,16,600,10,8640.0,5044.17,3595.83,41.62
+ORD-0363,2023-11-19,November,Q4,South,Rajesh Verma,Food & Beverages,Juice,6,60,0,360.0,244.11,115.89,32.19
+ORD-0575,2023-11-19,November,Q4,West,Pooja Mehta,Furniture,Bed,13,18000,5,222300.0,136332.33,85967.67,38.67
+ORD-0545,2023-11-21,November,Q4,West,Rahul Sharma,Furniture,Chair,19,4000,0,76000.0,53536.61,22463.39,29.56
+ORD-0542,2023-11-21,November,Q4,East,Sunita Rao,Clothing,T-Shirt,10,500,10,4500.0,2944.79,1555.21,34.56
+ORD-0683,2023-11-21,November,Q4,North,Neha Gupta,Electronics,Mobile,14,18000,0,252000.0,139359.41,112640.59,44.7
+ORD-0503,2023-11-21,November,Q4,West,Rahul Sharma,Food & Beverages,Coffee,19,300,10,5130.0,3790.35,1339.65,26.11
+ORD-0559,2023-11-21,November,Q4,West,Neha Gupta,Furniture,Table,12,8000,20,76800.0,51277.6,25522.4,33.23
+ORD-0086,2023-11-22,November,Q4,West,Sunita Rao,Food & Beverages,Coffee,15,300,15,3825.0,2220.79,1604.21,41.94
+ORD-0673,2023-11-23,November,Q4,East,Priya Singh,Clothing,Jeans,15,1200,10,16200.0,10376.97,5823.03,35.94
+ORD-0682,2023-11-23,November,Q4,East,Pooja Mehta,Sports,Cricket Bat,10,2500,0,25000.0,15552.13,9447.87,37.79
+ORD-0229,2023-11-24,November,Q4,West,Vikram Patel,Furniture,Wardrobe,2,15000,0,30000.0,20527.1,9472.9,31.58
+ORD-0289,2023-11-24,November,Q4,East,Priya Singh,Food & Beverages,Biscuits,10,40,0,400.0,269.17,130.83,32.71
+ORD-0772,2023-11-24,November,Q4,South,Rahul Sharma,Furniture,Wardrobe,7,15000,15,89250.0,54114.54,35135.46,39.37
+ORD-0864,2023-11-24,November,Q4,South,Amit Kumar,Food & Beverages,Tea,9,150,10,1215.0,777.7,437.3,35.99
+ORD-0922,2023-11-24,November,Q4,East,Vikram Patel,Electronics,Mobile,16,18000,0,288000.0,196059.63,91940.37,31.92
+ORD-0829,2023-11-25,November,Q4,East,Rahul Sharma,Clothing,Jeans,9,1200,20,8640.0,6168.15,2471.85,28.61
+ORD-0245,2023-11-25,November,Q4,North,Arun Joshi,Furniture,Wardrobe,6,15000,10,81000.0,59804.03,21195.97,26.17
+ORD-0695,2023-11-25,November,Q4,East,Rajesh Verma,Sports,Badminton,11,600,0,6600.0,3757.06,2842.94,43.07
+ORD-0997,2023-11-25,November,Q4,North,Rahul Sharma,Furniture,Bed,6,18000,15,91800.0,58630.92,33169.08,36.13
+ORD-0440,2023-11-26,November,Q4,West,Neha Gupta,Food & Beverages,Tea,17,150,0,2550.0,1724.18,825.82,32.39
+ORD-0536,2023-11-26,November,Q4,South,Arun Joshi,Electronics,Smartwatch,13,8000,5,98800.0,70485.96,28314.04,28.66
+ORD-0076,2023-11-26,November,Q4,North,Priya Singh,Sports,Cycle,14,7000,0,98000.0,70890.29,27109.71,27.66
+ORD-0534,2023-11-26,November,Q4,North,Rahul Sharma,Food & Beverages,Tea,6,150,10,810.0,583.01,226.99,28.02
+ORD-0190,2023-11-26,November,Q4,West,Kavita Nair,Food & Beverages,Juice,20,60,0,1200.0,867.42,332.58,27.71
+ORD-0092,2023-11-27,November,Q4,South,Pooja Mehta,Food & Beverages,Biscuits,16,40,5,608.0,430.82,177.18,29.14
+ORD-0435,2023-11-27,November,Q4,North,Neha Gupta,Electronics,Laptop,15,55000,20,660000.0,380000.48,279999.52,42.42
+ORD-0805,2023-11-27,November,Q4,East,Pooja Mehta,Sports,Yoga Mat,2,500,0,1000.0,593.52,406.48,40.65
+ORD-0231,2023-11-27,November,Q4,North,Neha Gupta,Electronics,Mobile,12,18000,0,216000.0,135339.31,80660.69,37.34
+ORD-0401,2023-11-27,November,Q4,West,Vikram Patel,Sports,Football,2,800,20,1280.0,933.87,346.13,27.04
+ORD-0567,2023-11-29,November,Q4,West,Arun Joshi,Clothing,Kurta,1,800,0,800.0,547.03,252.97,31.62
+ORD-0999,2023-11-29,November,Q4,South,Arun Joshi,Electronics,Mobile,5,18000,20,72000.0,48153.83,23846.17,33.12
+ORD-0079,2023-11-30,November,Q4,South,Priya Singh,Electronics,Tablet,2,25000,20,40000.0,22248.24,17751.76,44.38
+ORD-0599,2023-12-01,December,Q4,South,Rajesh Verma,Furniture,Wardrobe,13,15000,0,195000.0,130169.47,64830.53,33.25
+ORD-0854,2023-12-01,December,Q4,North,Neha Gupta,Electronics,Headphones,17,3500,5,56525.0,41716.47,14808.53,26.2
+ORD-0845,2023-12-01,December,Q4,West,Amit Kumar,Food & Beverages,Coffee,1,300,0,300.0,204.88,95.12,31.71
+ORD-0479,2023-12-02,December,Q4,East,Rajesh Verma,Furniture,Bed,16,18000,10,259200.0,174128.6,85071.4,32.82
+ORD-0165,2023-12-02,December,Q4,North,Priya Singh,Sports,Yoga Mat,18,500,15,7650.0,5531.7,2118.3,27.69
+ORD-0496,2023-12-02,December,Q4,East,Vikram Patel,Furniture,Sofa,10,22000,0,220000.0,127596.89,92403.11,42.0
+ORD-0224,2023-12-02,December,Q4,East,Rahul Sharma,Clothing,Jacket,11,2500,0,27500.0,15809.61,11690.39,42.51
+ORD-0728,2023-12-02,December,Q4,North,Pooja Mehta,Sports,Badminton,1,600,0,600.0,376.64,223.36,37.23
+ORD-0662,2023-12-02,December,Q4,South,Priya Singh,Electronics,Tablet,13,25000,0,325000.0,193658.14,131341.86,40.41
+ORD-0265,2023-12-02,December,Q4,West,Vikram Patel,Electronics,Smartwatch,19,8000,10,136800.0,81465.58,55334.42,40.45
+ORD-0500,2023-12-03,December,Q4,East,Amit Kumar,Furniture,Wardrobe,18,15000,0,270000.0,164364.34,105635.66,39.12
+ORD-0422,2023-12-03,December,Q4,East,Rahul Sharma,Furniture,Chair,13,4000,20,41600.0,29020.85,12579.15,30.24
+ORD-0171,2023-12-03,December,Q4,South,Amit Kumar,Sports,Cycle,16,7000,0,112000.0,80578.96,31421.04,28.05
+ORD-0444,2023-12-03,December,Q4,North,Neha Gupta,Clothing,Jeans,8,1200,0,9600.0,6304.68,3295.32,34.33
+ORD-0173,2023-12-03,December,Q4,North,Kavita Nair,Sports,Cycle,9,7000,0,63000.0,36923.24,26076.76,41.39
+ORD-0400,2023-12-04,December,Q4,East,Rahul Sharma,Sports,Cycle,10,7000,0,70000.0,45748.49,24251.51,34.65
+ORD-0028,2023-12-04,December,Q4,North,Priya Singh,Food & Beverages,Tea,14,150,0,2100.0,1332.9,767.1,36.53
+ORD-0022,2023-12-04,December,Q4,South,Amit Kumar,Electronics,Smartwatch,16,8000,10,115200.0,67164.53,48035.47,41.7
+ORD-0786,2023-12-04,December,Q4,North,Arun Joshi,Food & Beverages,Coffee,10,300,0,3000.0,1996.54,1003.46,33.45
+ORD-0533,2023-12-05,December,Q4,North,Rajesh Verma,Furniture,Wardrobe,8,15000,5,114000.0,70583.09,43416.91,38.09
+ORD-0806,2023-12-05,December,Q4,North,Amit Kumar,Clothing,Kurta,5,800,5,3800.0,2493.75,1306.25,34.38
+ORD-0976,2023-12-05,December,Q4,West,Neha Gupta,Clothing,Kurta,15,800,0,12000.0,8849.19,3150.81,26.26
+ORD-0034,2023-12-05,December,Q4,West,Arun Joshi,Food & Beverages,Snacks,16,80,0,1280.0,752.61,527.39,41.2
+ORD-0426,2023-12-06,December,Q4,North,Rajesh Verma,Food & Beverages,Coffee,5,300,0,1500.0,912.5,587.5,39.17
+ORD-0526,2023-12-06,December,Q4,North,Amit Kumar,Electronics,Laptop,6,55000,0,330000.0,205096.81,124903.19,37.85
+ORD-0974,2023-12-06,December,Q4,East,Rajesh Verma,Furniture,Wardrobe,18,15000,0,270000.0,159304.16,110695.84,41.0
+ORD-0566,2023-12-06,December,Q4,South,Neha Gupta,Electronics,Tablet,11,25000,0,275000.0,171093.88,103906.12,37.78
+ORD-0217,2023-12-07,December,Q4,West,Amit Kumar,Clothing,Kurta,3,800,10,2160.0,1609.05,550.95,25.51
+ORD-0452,2023-12-07,December,Q4,East,Neha Gupta,Sports,Cycle,19,7000,20,106400.0,62251.48,44148.52,41.49
+ORD-0167,2023-12-07,December,Q4,West,Sunita Rao,Electronics,Tablet,9,25000,0,225000.0,166661.66,58338.34,25.93
+ORD-0908,2023-12-08,December,Q4,East,Kavita Nair,Furniture,Bed,5,18000,20,72000.0,47739.33,24260.67,33.7
+ORD-0048,2023-12-08,December,Q4,South,Neha Gupta,Electronics,Tablet,4,25000,0,100000.0,70602.32,29397.68,29.4
+ORD-0288,2023-12-08,December,Q4,South,Rahul Sharma,Furniture,Sofa,4,22000,5,83600.0,51109.8,32490.2,38.86
+ORD-0470,2023-12-09,December,Q4,North,Priya Singh,Electronics,Mobile,12,18000,20,172800.0,113752.48,59047.52,34.17
+ORD-0322,2023-12-09,December,Q4,North,Priya Singh,Electronics,Smartwatch,2,8000,20,12800.0,7056.34,5743.66,44.87
+ORD-0009,2023-12-10,December,Q4,East,Neha Gupta,Clothing,Jacket,9,2500,15,19125.0,14101.45,5023.55,26.27
+ORD-0869,2023-12-10,December,Q4,South,Amit Kumar,Food & Beverages,Juice,2,60,0,120.0,81.48,38.52,32.1
+ORD-0943,2023-12-11,December,Q4,South,Pooja Mehta,Food & Beverages,Snacks,4,80,0,320.0,229.42,90.58,28.31
+ORD-0312,2023-12-11,December,Q4,East,Rajesh Verma,Clothing,T-Shirt,20,500,10,9000.0,5021.19,3978.81,44.21
+ORD-0834,2023-12-12,December,Q4,West,Pooja Mehta,Electronics,Tablet,8,25000,15,170000.0,116344.26,53655.74,31.56
+ORD-0962,2023-12-13,December,Q4,West,Kavita Nair,Furniture,Bed,12,18000,20,172800.0,128832.18,43967.82,25.44
+ORD-0273,2023-12-13,December,Q4,North,Kavita Nair,Furniture,Sofa,18,22000,5,376200.0,274307.02,101892.98,27.08
+ORD-0525,2023-12-13,December,Q4,East,Sunita Rao,Clothing,T-Shirt,11,500,5,5225.0,3645.52,1579.48,30.23
+ORD-0955,2023-12-14,December,Q4,West,Kavita Nair,Electronics,Mobile,11,18000,0,198000.0,120889.0,77111.0,38.94
+ORD-0179,2023-12-14,December,Q4,North,Vikram Patel,Furniture,Bed,19,18000,5,324900.0,212935.18,111964.82,34.46
+ORD-0588,2023-12-14,December,Q4,East,Amit Kumar,Food & Beverages,Snacks,11,80,5,836.0,537.19,298.81,35.74
+ORD-0948,2023-12-14,December,Q4,North,Pooja Mehta,Food & Beverages,Tea,12,150,0,1800.0,994.6,805.4,44.74
+ORD-0488,2023-12-15,December,Q4,West,Priya Singh,Food & Beverages,Biscuits,1,40,0,40.0,24.98,15.02,37.55
+ORD-0015,2023-12-15,December,Q4,South,Amit Kumar,Electronics,Laptop,14,55000,10,693000.0,389954.94,303045.06,43.73
+ORD-0291,2023-12-15,December,Q4,South,Neha Gupta,Sports,Yoga Mat,20,500,20,8000.0,5659.79,2340.21,29.25
+ORD-0497,2023-12-15,December,Q4,West,Sunita Rao,Clothing,T-Shirt,5,500,15,2125.0,1179.57,945.43,44.49
+ORD-0568,2023-12-16,December,Q4,South,Rahul Sharma,Food & Beverages,Tea,11,150,5,1567.5,1149.27,418.23,26.68
+ORD-0437,2023-12-16,December,Q4,North,Rajesh Verma,Food & Beverages,Juice,14,60,0,840.0,521.46,318.54,37.92
+ORD-0848,2023-12-16,December,Q4,East,Sunita Rao,Food & Beverages,Coffee,10,300,5,2850.0,1598.96,1251.04,43.9
+ORD-0694,2023-12-16,December,Q4,South,Arun Joshi,Sports,Yoga Mat,16,500,20,6400.0,4225.88,2174.12,33.97
+ORD-0978,2023-12-17,December,Q4,South,Amit Kumar,Food & Beverages,Tea,10,150,20,1200.0,764.49,435.51,36.29
+ORD-0732,2023-12-17,December,Q4,North,Sunita Rao,Food & Beverages,Tea,12,150,0,1800.0,1215.08,584.92,32.5
+ORD-0929,2023-12-17,December,Q4,East,Vikram Patel,Furniture,Sofa,12,22000,0,264000.0,173417.39,90582.61,34.31
+ORD-0495,2023-12-17,December,Q4,East,Vikram Patel,Furniture,Wardrobe,4,15000,5,57000.0,32077.74,24922.26,43.72
+ORD-0373,2023-12-17,December,Q4,West,Rajesh Verma,Food & Beverages,Biscuits,16,40,5,608.0,420.75,187.25,30.8
+ORD-0795,2023-12-17,December,Q4,West,Vikram Patel,Food & Beverages,Coffee,15,300,5,4275.0,2549.35,1725.65,40.37
+ORD-0820,2023-12-17,December,Q4,West,Priya Singh,Electronics,Mobile,18,18000,20,259200.0,172607.94,86592.06,33.41
+ORD-0577,2023-12-18,December,Q4,North,Vikram Patel,Electronics,Tablet,10,25000,10,225000.0,127642.73,97357.27,43.27
+ORD-0499,2023-12-18,December,Q4,East,Neha Gupta,Sports,Football,18,800,15,12240.0,8653.43,3586.57,29.3
+ORD-0513,2023-12-18,December,Q4,East,Rajesh Verma,Sports,Cycle,5,7000,0,35000.0,26222.97,8777.03,25.08
+ORD-0742,2023-12-19,December,Q4,East,Priya Singh,Clothing,T-Shirt,16,500,0,8000.0,5203.72,2796.28,34.95
+ORD-0688,2023-12-19,December,Q4,South,Rahul Sharma,Furniture,Bed,13,18000,0,234000.0,162601.88,71398.12,30.51
+ORD-0935,2023-12-19,December,Q4,South,Amit Kumar,Electronics,Mobile,8,18000,0,144000.0,82809.91,61190.09,42.49
+ORD-0923,2023-12-19,December,Q4,South,Pooja Mehta,Furniture,Bed,8,18000,0,144000.0,82637.41,61362.59,42.61
+ORD-0933,2023-12-20,December,Q4,East,Vikram Patel,Electronics,Headphones,12,3500,0,42000.0,29963.13,12036.87,28.66
+ORD-0268,2023-12-20,December,Q4,South,Rajesh Verma,Furniture,Bed,7,18000,5,119700.0,77848.56,41851.44,34.96
+ORD-0228,2023-12-20,December,Q4,West,Amit Kumar,Furniture,Bed,15,18000,0,270000.0,172645.0,97355.0,36.06
+ORD-0528,2023-12-20,December,Q4,East,Rajesh Verma,Food & Beverages,Juice,16,60,20,768.0,487.18,280.82,36.57
+ORD-0481,2023-12-20,December,Q4,West,Sunita Rao,Food & Beverages,Coffee,8,300,0,2400.0,1677.96,722.04,30.09
+ORD-0093,2023-12-21,December,Q4,South,Rajesh Verma,Electronics,Tablet,8,25000,0,200000.0,136558.4,63441.6,31.72
+ORD-0840,2023-12-21,December,Q4,East,Rajesh Verma,Electronics,Headphones,11,3500,0,38500.0,22422.14,16077.86,41.76
+ORD-0766,2023-12-22,December,Q4,South,Priya Singh,Furniture,Bed,9,18000,0,162000.0,106176.51,55823.49,34.46
+ORD-0802,2023-12-22,December,Q4,East,Arun Joshi,Food & Beverages,Biscuits,8,40,0,320.0,218.41,101.59,31.75
+ORD-0518,2023-12-22,December,Q4,South,Neha Gupta,Furniture,Bed,1,18000,0,18000.0,11415.14,6584.86,36.58
+ORD-0614,2023-12-23,December,Q4,East,Kavita Nair,Food & Beverages,Juice,19,60,0,1140.0,724.01,415.99,36.49
+ORD-0677,2023-12-23,December,Q4,East,Pooja Mehta,Furniture,Bed,2,18000,0,36000.0,20377.61,15622.39,43.4
+ORD-0065,2023-12-23,December,Q4,South,Amit Kumar,Electronics,Headphones,17,3500,5,56525.0,31656.47,24868.53,44.0
+ORD-0463,2023-12-23,December,Q4,South,Rajesh Verma,Furniture,Table,18,8000,15,122400.0,89978.04,32421.96,26.49
+ORD-0408,2023-12-24,December,Q4,North,Vikram Patel,Furniture,Bed,14,18000,15,214200.0,158654.85,55545.15,25.93
+ORD-0715,2023-12-24,December,Q4,East,Arun Joshi,Sports,Football,8,800,0,6400.0,3584.67,2815.33,43.99
+ORD-0621,2023-12-25,December,Q4,South,Pooja Mehta,Clothing,T-Shirt,6,500,0,3000.0,1778.67,1221.33,40.71
+ORD-0081,2023-12-25,December,Q4,South,Pooja Mehta,Electronics,Smartwatch,9,8000,20,57600.0,35929.67,21670.33,37.62
+ORD-0267,2023-12-25,December,Q4,North,Kavita Nair,Clothing,Jeans,4,1200,0,4800.0,2658.18,2141.82,44.62
+ORD-0550,2023-12-25,December,Q4,West,Kavita Nair,Clothing,Jeans,17,1200,0,20400.0,14659.74,5740.26,28.14
+ORD-0149,2023-12-25,December,Q4,North,Pooja Mehta,Sports,Football,10,800,15,6800.0,4295.28,2504.72,36.83
+ORD-0354,2023-12-26,December,Q4,North,Sunita Rao,Sports,Yoga Mat,18,500,10,8100.0,5488.85,2611.15,32.24
+ORD-0856,2023-12-26,December,Q4,North,Neha Gupta,Food & Beverages,Biscuits,5,40,0,200.0,116.89,83.11,41.55
+ORD-0521,2023-12-27,December,Q4,South,Sunita Rao,Clothing,Jacket,14,2500,0,35000.0,20372.62,14627.38,41.79
+ORD-0381,2023-12-27,December,Q4,South,Sunita Rao,Furniture,Wardrobe,10,15000,0,150000.0,99682.07,50317.93,33.55
+ORD-0890,2023-12-27,December,Q4,South,Arun Joshi,Furniture,Sofa,3,22000,10,59400.0,41096.93,18303.07,30.81
+ORD-0487,2023-12-27,December,Q4,North,Sunita Rao,Electronics,Headphones,7,3500,0,24500.0,15279.92,9220.08,37.63
+ORD-0430,2023-12-27,December,Q4,South,Vikram Patel,Electronics,Laptop,20,55000,0,1100000.0,652304.57,447695.43,40.7
+ORD-0365,2023-12-27,December,Q4,South,Vikram Patel,Electronics,Mobile,3,18000,10,48600.0,27719.03,20880.97,42.96
+ORD-0754,2023-12-28,December,Q4,North,Priya Singh,Clothing,T-Shirt,15,500,15,6375.0,3969.0,2406.0,37.74
+ORD-0127,2023-12-28,December,Q4,East,Pooja Mehta,Food & Beverages,Coffee,13,300,5,3705.0,2770.16,934.84,25.23
+ORD-0768,2023-12-28,December,Q4,West,Kavita Nair,Sports,Cricket Bat,10,2500,5,23750.0,15954.51,7795.49,32.82
+ORD-0564,2023-12-29,December,Q4,East,Priya Singh,Food & Beverages,Biscuits,11,40,10,396.0,235.22,160.78,40.6
+ORD-0903,2023-12-29,December,Q4,South,Amit Kumar,Sports,Badminton,5,600,0,3000.0,1792.74,1207.26,40.24
+ORD-0361,2023-12-30,December,Q4,East,Rahul Sharma,Furniture,Chair,4,4000,0,16000.0,11517.38,4482.62,28.02
+ORD-0934,2023-12-30,December,Q4,East,Amit Kumar,Sports,Cycle,10,7000,0,70000.0,48922.44,21077.56,30.11
